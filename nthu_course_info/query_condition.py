@@ -8,7 +8,7 @@ class Condition:
         self.type_ = type_.value
         self.value = value
 
-    def check(self, course):
+    def check(self, course: Course) -> bool:
         return vars(course)[self.type_] == self.value
 
 
@@ -27,7 +27,7 @@ class Conditions:
         self.condition_stat = [self.condition_stat, "or", condition2.condition_stat]
         return self
 
-    def solve_condition_stat(self, data):
+    def _solve_condition_stat(self, data: list) -> bool:
         lhs, op, rhs = data
 
         if type(lhs) == list:
