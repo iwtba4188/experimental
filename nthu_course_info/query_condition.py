@@ -1,23 +1,31 @@
+import re
 from course import Course
 from constant import Field
 
 
 class Condition:
 
-    def __init__(self, type_: Field, value: str) -> None:
-        self.type_ = type_.value
-        self.value = value
+    def __init__(self, row_field: Field, matcher: str, regex_match: bool) -> None:
+        self.row_field = row_field.value
+        self.matcher = matcher
+        self.regex_match = regex_match
 
     def check(self, course: Course) -> bool:
-        return vars(course)[self.type_] == self.value
+        course_data_dict = vars(course)
+        field_data = course_data_dict[self.row_field]
+
+        if self.regex_match == True:
+            match_res = re.search(self.matcher, field_data)
+            return False if match_res == None else True
+        else:
+            return field_data == self.matcher
 
 
 class Conditions:
 
-    def __init__(self, type_: str, value: str) -> None:
-        self.condition_stat = [Condition(type_, value), "and", True]
+    def __init__(self, row_field: str, matcher: str | re.Pattern[str], regex_match: bool = False) -> None:
+        self.condition_stat = [Condition(row_field, matcher, regex_match), "and", True]
         self.course = None
-        return
 
     def __and__(self, condition2):
         self.condition_stat = [self.condition_stat, "and", condition2.condition_stat]
@@ -47,5 +55,4 @@ class Conditions:
 
     def accept(self, course: Course) -> bool:
         self.course = course
-
         return self._solve_condition_stat(self.condition_stat)
