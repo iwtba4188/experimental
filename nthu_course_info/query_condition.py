@@ -31,12 +31,12 @@ class Conditions:
         lhs, op, rhs = data
 
         if type(lhs) == list:
-            lhs = self.solve_condition_stat(lhs)
+            lhs = self._solve_condition_stat(lhs)
         elif type(lhs) == Condition:
             lhs = lhs.check(self.course)
 
         if type(rhs) == list:
-            rhs = self.solve_condition_stat(rhs)
+            rhs = self._solve_condition_stat(rhs)
         elif type(rhs) == Condition:
             rhs = rhs.check(self.course)
 
@@ -48,4 +48,4 @@ class Conditions:
     def accept(self, course: Course) -> bool:
         self.course = course
 
-        return self.solve_condition_stat(self.condition_stat)
+        return self._solve_condition_stat(self.condition_stat)
