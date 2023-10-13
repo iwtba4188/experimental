@@ -20,7 +20,7 @@ class Condition:
         self.regex_match = regex_match
 
     def check(self, course: Course) -> bool:
-        """ 確認是否滿足判斷式。 """
+        """確認是否滿足判斷式。"""
 
         course_data_dict = vars(course)
         field_data = course_data_dict[self.row_field]
@@ -42,24 +42,26 @@ class Conditions:
         course(``Course``): 當前套用條件的課程。
     """
 
-    def __init__(self, row_field: str, matcher: str | re.Pattern[str], regex_match: bool = False) -> None:
+    def __init__(
+        self, row_field: str, matcher: str | re.Pattern[str], regex_match: bool = False
+    ) -> None:
         self.condition_stat = [Condition(row_field, matcher, regex_match), "and", True]
         self.course = None
 
     def __and__(self, condition2):
-        """ Override bitwise ``and`` operator 當成 logical ``and``。 """
+        """Override bitwise ``and`` operator 當成 logical ``and``。"""
 
         self.condition_stat = [self.condition_stat, "and", condition2.condition_stat]
         return self
 
     def __or__(self, condition2):
-        """ Override bitwise ``or`` operator 當成 logical ``or``。 """
+        """Override bitwise ``or`` operator 當成 logical ``or``。"""
 
         self.condition_stat = [self.condition_stat, "or", condition2.condition_stat]
         return self
 
     def _solve_condition_stat(self, data: list) -> bool:
-        """ 遞迴函式，拆分成 左手邊、運算子、右手邊，將左右手遞迴解成 ``bool`` 之後，再算出這一層的結果。 """
+        """遞迴函式，拆分成 左手邊、運算子、右手邊，將左右手遞迴解成 ``bool`` 之後，再算出這一層的結果。"""
 
         lhs, op, rhs = data
 
@@ -74,12 +76,12 @@ class Conditions:
             rhs = rhs.check(self.course)
 
         if op == "and":
-            return (lhs and rhs)
+            return lhs and rhs
         elif op == "or":
-            return (lhs or rhs)
+            return lhs or rhs
 
     def accept(self, course: Course) -> bool:
-        """ 包裝遞迴函式供外部使用，回傳以該課程計算多個條件運算後的結果。 """
+        """包裝遞迴函式供外部使用，回傳以該課程計算多個條件運算後的結果。"""
 
         self.course = course
         return self._solve_condition_stat(self.condition_stat)

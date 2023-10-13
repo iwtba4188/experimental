@@ -11,13 +11,18 @@ class CourseData:
         course_data (``list[Course]``): 轉換為 Course 類別的課程資料。
     """
 
-    NTHU_COURSE_DATA_URL = "https://www.ccxp.nthu.edu.tw/ccxp/INQUIRE/JH/OPENDATA/open_course_data.json"
+    NTHU_COURSE_DATA_URL = (
+        "https://www.ccxp.nthu.edu.tw/ccxp/INQUIRE/JH/OPENDATA/open_course_data.json"
+    )
 
-    def __init__(self) -> None:
-        self.course_data = self._get_course_data()
+    def __init__(self, data_source=None, json_path=None) -> None:
+        if data_source == "json":
+            self.course_data = self._get_course_data_by_json(json_path)
+        else:
+            self.course_data = self._get_course_data()
 
     def _get_course_data(self) -> list[Course]:
-        """ TODO: error handler. """
+        """TODO: error handler."""
 
         course_data_resp = requests.get(self.NTHU_COURSE_DATA_URL)
         course_data_text = course_data_resp.text
@@ -26,6 +31,14 @@ class CourseData:
         course_data_format_list = list(map(Course, course_data_dict_list))
 
         return course_data_format_list
+
+    def _get_course_data_by_json(self, json_path) -> list[Course]:
+        # 使用 json 模組讀取檔案
+
+        with open(json_path, "r", encoding="utf-8") as f:
+            course_data_dict_list = json.load(f)
+
+        return list(map(Course, course_data_dict_list))
 
     def query(self, conditions: Conditions) -> list[Course]:
         """搜尋所有符合條件的課程。

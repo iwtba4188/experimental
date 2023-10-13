@@ -2,7 +2,7 @@ from enum import Enum
 
 
 class Field(Enum):
-    """ Enum 欄位名稱，內容與格式參考 ``./course.py``。 """
+    """Enum 欄位名稱，內容與格式參考 ``./course.py``。"""
 
     ID = "id"
     CHINESE_TITLE = "chinese_title"
