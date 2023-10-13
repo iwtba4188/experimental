@@ -15,8 +15,11 @@ class CourseData:
         "https://www.ccxp.nthu.edu.tw/ccxp/INQUIRE/JH/OPENDATA/open_course_data.json"
     )
 
-    def __init__(self) -> None:
-        self.course_data = self._get_course_data()
+    def __init__(self, data_source=None, json_path=None) -> None:
+        if data_source == "json":
+            self.course_data = self._get_course_data_by_json(json_path)
+        else:
+            self.course_data = self._get_course_data()
 
     def _get_course_data(self) -> list[Course]:
         """TODO: error handler."""
@@ -29,10 +32,10 @@ class CourseData:
 
         return course_data_format_list
 
-    def _get_course_data_by_json(self) -> list[Course]:
+    def _get_course_data_by_json(self, json_path) -> list[Course]:
         # 使用 json 模組讀取檔案
 
-        with open("course_data.json", "r", encoding="utf-8") as f:
+        with open(json_path, "r", encoding="utf-8") as f:
             course_data_dict_list = json.load(f)
 
         return list(map(Course, course_data_dict_list))

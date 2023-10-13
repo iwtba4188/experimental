@@ -2,7 +2,7 @@ from course_data import CourseData
 from query_condition import Conditions
 from constant import Field
 
-course_data = CourseData()
+course_data = CourseData(data_source="json", json_path="data/112/courses.json")
 
 
 # 中文課名為"文化人類學專題" 且 課號為"11210ANTH651000"
