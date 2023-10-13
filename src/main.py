@@ -6,9 +6,13 @@ course_data = CourseData()
 
 
 # 中文課名為"文化人類學專題" 且 課號為"11210ANTH651000"
-condition1 = Conditions(Field.CHINESE_TITLE, "文化人類學專題") & Conditions(Field.ID, "11210ANTH651000")
+condition1 = Conditions(Field.CHINESE_TITLE, "文化人類學專題") & Conditions(
+    Field.ID, "11210ANTH651000"
+)
 # 中文課名為"化人類學專題" 且 課號為"11210ANTH651000"
-condition2 = Conditions(Field.CHINESE_TITLE, "化人類學專題") | Conditions(Field.ID, "11210ANTH651000")
+condition2 = Conditions(Field.CHINESE_TITLE, "化人類學專題") | Conditions(
+    Field.ID, "11210ANTH651000"
+)
 
 # 中文授課 或 英文授課
 condition_ce = Conditions(Field.LANGUAGE, "中") | Conditions(Field.LANGUAGE, "英")
