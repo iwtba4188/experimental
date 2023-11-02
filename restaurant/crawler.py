@@ -12,12 +12,12 @@ with open("temp_res.txt", "w", encoding="utf-8") as f:
     f.write(res_text)
 
 # 將字串轉換成 json 格式
-restaurantsData = re.search(r"const restaurantsData = (\[.*?)  renderTabs", res_text, re.S).group(1)
-restaurantsData = restaurantsData.replace("\'", "\"")
-restaurantsData = restaurantsData.replace("\n", "")
-restaurantsData = restaurantsData.replace(",  ]", "]")
+restaurants_data = re.search(r"const restaurantsData = (\[.*?)  renderTabs", res_text, re.S).group(1)
+restaurants_data = restaurants_data.replace("\'", "\"")
+restaurants_data = restaurants_data.replace("\n", "")
+restaurants_data = restaurants_data.replace(",  ]", "]")
 
 # 輸出 json 檔案
-with open("restaurantsData.json", "w", encoding="utf-8") as f:
-    j = json.loads(restaurantsData)
+with open("restaurants_data.json", "w", encoding="utf-8") as f:
+    j = json.loads(restaurants_data)
     json.dump(j, f, ensure_ascii=False, indent=4)

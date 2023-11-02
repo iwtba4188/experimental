@@ -13,86 +13,91 @@ with open("temp_res.txt", "w", encoding="utf-8") as f:
 
 # 將字串轉換成 json 格式
 # 往南大校區資訊
-towardSouthCampusInfo = re.search(
+toward_south_campus_info = re.search(
     r"const towardSouthCampusInfo = (\{.*?\})", res_text, re.S).group(1)
-towardSouthCampusInfo = towardSouthCampusInfo.replace("\'", "\"")
-towardSouthCampusInfo = towardSouthCampusInfo.replace(
+toward_south_campus_info = toward_south_campus_info.replace("\'", "\"")
+toward_south_campus_info = toward_south_campus_info.replace(
     "direction", "\"direction\"")
-towardSouthCampusInfo = towardSouthCampusInfo.replace(
+toward_south_campus_info = toward_south_campus_info.replace(
     "duration", "\"duration\"")
-towardSouthCampusInfo = towardSouthCampusInfo.replace("route", "\"route\"", 1)
-towardSouthCampusInfo = towardSouthCampusInfo.replace("routeEN", "\"routeEN\"")
-towardSouthCampusInfo = towardSouthCampusInfo.replace("\n", "")
+toward_south_campus_info = toward_south_campus_info.replace(
+    "route", "\"route\"", 1)
+toward_south_campus_info = toward_south_campus_info.replace(
+    "routeEN", "\"routeEN\"")
+toward_south_campus_info = toward_south_campus_info.replace("\n", "")
 # 往南大校區時刻表(平日)
-weekdayBusScheduleTowardSouthCampus = re.search(
+weekday_bus_schedule_toward_south_campus = re.search(
     r"const weekdayBusScheduleTowardSouthCampus = (\[.*?\])", res_text, re.S).group(1)
-weekdayBusScheduleTowardSouthCampus = weekdayBusScheduleTowardSouthCampus.replace(
+weekday_bus_schedule_toward_south_campus = weekday_bus_schedule_toward_south_campus.replace(
     "\'", "\"")
-weekdayBusScheduleTowardSouthCampus = weekdayBusScheduleTowardSouthCampus.replace(
+weekday_bus_schedule_toward_south_campus = weekday_bus_schedule_toward_south_campus.replace(
     "time", "\"time\"")
-weekdayBusScheduleTowardSouthCampus = weekdayBusScheduleTowardSouthCampus.replace(
+weekday_bus_schedule_toward_south_campus = weekday_bus_schedule_toward_south_campus.replace(
     "description", "\"description\"")
-weekdayBusScheduleTowardSouthCampus = weekdayBusScheduleTowardSouthCampus.replace(
+weekday_bus_schedule_toward_south_campus = weekday_bus_schedule_toward_south_campus.replace(
     "\n", "")
-weekdayBusScheduleTowardSouthCampus = weekdayBusScheduleTowardSouthCampus.replace(
+weekday_bus_schedule_toward_south_campus = weekday_bus_schedule_toward_south_campus.replace(
     ",    ]", "]")
 # 往南大校區時刻表(假日)
-weekendBusScheduleTowardSouthCampus = re.search(
+weekend_bus_schedule_toward_south_campus = re.search(
     r"const weekendBusScheduleTowardSouthCampus = (\[.*?\])", res_text, re.S).group(1)
-weekendBusScheduleTowardSouthCampus = weekendBusScheduleTowardSouthCampus.replace(
+weekend_bus_schedule_toward_south_campus = weekend_bus_schedule_toward_south_campus.replace(
     "\'", "\"")
-weekendBusScheduleTowardSouthCampus = weekendBusScheduleTowardSouthCampus.replace(
+weekend_bus_schedule_toward_south_campus = weekend_bus_schedule_toward_south_campus.replace(
     "time", "\"time\"")
-weekendBusScheduleTowardSouthCampus = weekendBusScheduleTowardSouthCampus.replace(
+weekend_bus_schedule_toward_south_campus = weekend_bus_schedule_toward_south_campus.replace(
     "description", "\"description\"")
-weekendBusScheduleTowardSouthCampus = weekendBusScheduleTowardSouthCampus.replace(
+weekend_bus_schedule_toward_south_campus = weekend_bus_schedule_toward_south_campus.replace(
     "\n", "")
-weekendBusScheduleTowardSouthCampus = weekendBusScheduleTowardSouthCampus.replace(
+weekend_bus_schedule_toward_south_campus = weekend_bus_schedule_toward_south_campus.replace(
     ",    ]", "]")
 
 # 往校本部資訊
-towardMainCampusInfo = re.search(
+toward_main_campus_info = re.search(
     r"const towardMainCampusInfo = (\{.*?\})", res_text, re.S).group(1)
-towardMainCampusInfo = towardMainCampusInfo.replace("\'", "\"")
-towardMainCampusInfo = towardMainCampusInfo.replace(
+toward_main_campus_info = toward_main_campus_info.replace("\'", "\"")
+toward_main_campus_info = toward_main_campus_info.replace(
     "direction", "\"direction\"")
-towardMainCampusInfo = towardMainCampusInfo.replace("duration", "\"duration\"")
-towardMainCampusInfo = towardMainCampusInfo.replace("route", "\"route\"", 1)
-towardMainCampusInfo = towardMainCampusInfo.replace("routeEN", "\"routeEN\"")
-towardMainCampusInfo = towardMainCampusInfo.replace("\n", "")
+toward_main_campus_info = toward_main_campus_info.replace(
+    "duration", "\"duration\"")
+toward_main_campus_info = toward_main_campus_info.replace(
+    "route", "\"route\"", 1)
+toward_main_campus_info = toward_main_campus_info.replace(
+    "routeEN", "\"routeEN\"")
+toward_main_campus_info = toward_main_campus_info.replace("\n", "")
 # 往校本部時刻表(平日)
-weekdayBusScheduleTowardMainCampus = re.search(
+weekday_bus_schedule_toward_main_campus = re.search(
     r"const weekdayBusScheduleTowardMainCampus = (\[.*?\])", res_text, re.S).group(1)
-weekdayBusScheduleTowardMainCampus = weekdayBusScheduleTowardMainCampus.replace(
+weekday_bus_schedule_toward_main_campus = weekday_bus_schedule_toward_main_campus.replace(
     "\'", "\"")
-weekdayBusScheduleTowardMainCampus = weekdayBusScheduleTowardMainCampus.replace(
+weekday_bus_schedule_toward_main_campus = weekday_bus_schedule_toward_main_campus.replace(
     "time", "\"time\"")
-weekdayBusScheduleTowardMainCampus = weekdayBusScheduleTowardMainCampus.replace(
+weekday_bus_schedule_toward_main_campus = weekday_bus_schedule_toward_main_campus.replace(
     "description", "\"description\"")
-weekdayBusScheduleTowardMainCampus = weekdayBusScheduleTowardMainCampus.replace(
+weekday_bus_schedule_toward_main_campus = weekday_bus_schedule_toward_main_campus.replace(
     "\n", "")
-weekdayBusScheduleTowardMainCampus = weekdayBusScheduleTowardMainCampus.replace(
+weekday_bus_schedule_toward_main_campus = weekday_bus_schedule_toward_main_campus.replace(
     ",    ]", "]")
 # 往校本部時刻表(假日)
-weekendBusScheduleTowardMainCampus = re.search(
+weekend_bus_schedule_toward_main_campus = re.search(
     r"const weekendBusScheduleTowardMainCampus = (\[.*?\])", res_text, re.S).group(1)
-weekendBusScheduleTowardMainCampus = weekendBusScheduleTowardMainCampus.replace(
+weekend_bus_schedule_toward_main_campus = weekend_bus_schedule_toward_main_campus.replace(
     "\'", "\"")
-weekendBusScheduleTowardMainCampus = weekendBusScheduleTowardMainCampus.replace(
+weekend_bus_schedule_toward_main_campus = weekend_bus_schedule_toward_main_campus.replace(
     "time", "\"time\"")
-weekendBusScheduleTowardMainCampus = weekendBusScheduleTowardMainCampus.replace(
+weekend_bus_schedule_toward_main_campus = weekend_bus_schedule_toward_main_campus.replace(
     "description", "\"description\"")
-weekendBusScheduleTowardMainCampus = weekendBusScheduleTowardMainCampus.replace(
+weekend_bus_schedule_toward_main_campus = weekend_bus_schedule_toward_main_campus.replace(
     "\n", "")
-weekendBusScheduleTowardMainCampus = weekendBusScheduleTowardMainCampus.replace(
+weekend_bus_schedule_toward_main_campus = weekend_bus_schedule_toward_main_campus.replace(
     ",    ]", "]")
 
 
 # 輸出 json 檔案
-dataname = ["towardSouthCampusInfo", "weekdayBusScheduleTowardSouthCampus", "weekendBusScheduleTowardSouthCampus",
-            "towardMainCampusInfo", "weekdayBusScheduleTowardMainCampus", "weekendBusScheduleTowardMainCampus"]
-dataset = [towardSouthCampusInfo, weekdayBusScheduleTowardSouthCampus, weekendBusScheduleTowardSouthCampus,
-           towardMainCampusInfo, weekdayBusScheduleTowardMainCampus, weekendBusScheduleTowardMainCampus]
+dataname = ["toward_south_campus_info", "weekday_bus_schedule_toward_south_campus", "weekend_bus_schedule_toward_south_campus",
+            "toward_main_campus_info", "weekday_bus_schedule_toward_main_campus", "weekend_bus_schedule_toward_main_campus"]
+dataset = [toward_south_campus_info, weekday_bus_schedule_toward_south_campus, weekend_bus_schedule_toward_south_campus,
+           toward_main_campus_info, weekday_bus_schedule_toward_main_campus, weekend_bus_schedule_toward_main_campus]
 for index, data in enumerate(dataset):
     print(data)
     j = json.loads(data)
