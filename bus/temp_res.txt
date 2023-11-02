@@ -1,0 +1,1312 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=1, minimum-scale=1.0, maximum-scale=3.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="keywords" content="請填寫網站關鍵記事，用半角逗號(,)隔開" />
+<meta name="description" content="請填寫網站簡述" />
+<meta content="index,follow" name="robots">
+<title>南大公車時刻表 </title>
+
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<link rel="bookmark" href="/images/favicon.ico" type="image/x-icon" />
+
+
+<link rel="stylesheet" href="/var/file/165/1165/mobilestyle/combine-zh-tw.css?t=1683093276" type="text/css" />
+<script language="javascript"><!--
+ var isHome = false 
+ --></script>
+<script language="javascript"><!--
+ var isExpanMenu = false 
+ --></script>
+<script type="text/javascript" src="/var/file/js/m_20230503.js" ></script>
+</head>
+ 
+<body class="page_mobilecgmolist  ">
+
+<div class="wrap">
+
+
+<a href="#start-C" class="focusable" title="跳到主要內容區">跳到主要內容區</a>
+
+
+<div class="fpbgvideo"></div>
+<div class="minner">
+
+<div id="Dyn_head">
+<div class="header">
+	<div class="minner ">
+
+
+
+
+
+
+
+	
+<div class="selfhead">
+		<div class="meditor">
+	
+      
+         
+			<!--第一行-->
+<div class="top_first">
+<div class="top_first_main container">
+<div class="logo1"><a href="/index.php" title="清華大學_;事務組">總務處事務組<span style="font-size:0.5em;"><span style="font-family:times new roman,times,serif;">　Division of Physical Facility</span></span></a></div>
+<div class="logo2"><a href="/index.php" title="清華大學_事務組"><img src="/var/file/1/1001/img/logo.png" /> </a></div>
+</div>
+</div>
+
+<!--第二行-->
+<div class="top_second">
+<div class="top_second_main container">
+<div class="mycollapse"><button class="navbar-toggle" data-target=".nav-toggle" data-toggle="collapse" type="button"><span class="glyphicons show_lines">Menu</span></button>
+<div class="navbar-collapse collapse nav-toggle" id="collapseExample2">
+<div class="well">
+<div class="topnav1" style="order: 2;">
+				
+				
+
+
+
+   
+<div class="headnavcust">
+	<div class="mnavbar mn-collapse">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".hd-topnav1">
+			<span class="glyphicons show_lines">Menu</span>
+		</button>
+		<div class="nav-toggle collapse navbar-collapse iosScrollToggle hd-topnav1">
+			<div class="hdmenu">
+				<ul class="nav navbar-nav" id="ab28f9c3fb80614964d88195cf3d458d8_MenuTop_topnav1">
+				
+					<li   id="Hln_6349" ><a  href="http://www.nthu.edu.tw/" title="清大首頁">清大首頁</a></li>
+				
+					<li   id="Hln_13874" ><a  href="https://nesh.site.nthu.edu.tw/index.php" title="環安中心">環安中心</a></li>
+				
+					<li   id="Hln_5383" ><a  href="/app/index.php" title="首頁">首頁</a></li>
+				
+					<li   id="Hln_5508" ><a  href="http://general.site.nthu.edu.tw/bin/home.php" title="總務處">總務處</a></li>
+				
+					<li   id="Hln_7939" ><a  href="http://document.site.nthu.edu.tw/index.php" title="文書組">文書組</a></li>
+				
+					<li   id="Hln_7940" ><a  href="https://cashier.site.nthu.edu.tw/?Lang=zh-tw" title="出納組">出納組</a></li>
+				
+					<li   id="Hln_7941" ><a  href="http://property.site.nthu.edu.tw/bin/home.php" title="保管組">保管組</a></li>
+				
+					<li   id="Hln_7942" ><a  href="http://construc.site.nthu.edu.tw/bin/home.php" title="營繕組">營繕組</a></li>
+				
+					<li   id="Hln_7971" ><a  href="http://purchase.site.nthu.edu.tw/" title="採購組">採購組</a></li>
+				
+					<li   id="Hln_9675" ><a  href="http://ddfm.site.nthu.edu.tw/index.php" title="經營管理組">經營管理組</a></li>
+				
+					<li   id="Hln_7943" ><a  href="http://guard.site.nthu.edu.tw/bin/home.php" title="駐警隊">駐警隊</a></li>
+				
+					<li   id="Hln_9676" ><a  href="http://admin.site.nthu.edu.tw/index.php" title="南大總務行政組">南大總務行政組</a></li>
+				
+					<li   id="Hln_5521" ><a  href="/platform" title="網站管理">網站管理</a></li>
+				
+					<li   id="Hln_8541" ><a  href="http://tel.net.nthu.edu.tw/nthusearch/dept.php?dd=2503" title="通訊錄">通訊錄</a></li>
+				
+					<li   id="Hln_7945" ><a  href="http://affairs.site.nthu.edu.tw/?Lang=en" title="English">English</a></li>
+				
+        		
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+$(document).ready(function(){
+	$(".mnavbar .navbar-toggle").click(function(){
+		$(this).toggleClass("open");
+	});
+   $('.iosScrollToggle').on('shown.bs.collapse', function () {
+		var togglePos = $(this).css('position');
+      if(togglePos !== 'static'){
+          ModalHelper.afterOpen();
+      }
+    });
+
+    $('.iosScrollToggle').on('hide.bs.collapse', function () {
+		var togglePos = $(this).css('position');
+      if(togglePos !== 'static'){
+			ModalHelper.beforeClose();
+      }
+    });
+	
+});
+</script>
+
+
+
+	
+
+
+<script language="javascript">
+tabSwitch("ab28f9c3fb80614964d88195cf3d458d8_MenuTop_topnav1");
+</script>
+
+         
+			</div>
+<div id="hd_search" style="order: 3;">&nbsp;</div>
+<div class="topnav2" style="order: 1;">
+				
+				
+
+
+   
+<div class="headnavcust">
+	<div class="mnavbar mn-static">
+		<div class="hdmenu">
+			<ul class="nav navbar-nav" id="ab28f9c3fb80614964d88195cf3d458d8_MenuTop_topnav2">
+			
+				<li   id="Hln_11310" ><a  href="/p/403-1165-127.php" title="最新公告">最新公告</a></li>
+			
+				<li   id="Hln_6935" ><a  href="/p/412-1165-14950.php" title="本組成員">本組成員</a></li>
+			
+				<li   id="Hln_7477" ><a  href="/p/412-1165-15284.php" title="主要業務">主要業務</a></li>
+			
+				<li   id="Hln_6938" ><a  href="/p/412-1165-15285.php" title="場地使用">場地使用</a></li>
+			
+				<li   id="Hln_12287" ><a  href="/p/412-1165-15288.php?Lang=zh-tw" title="公務車管理">公務車管理</a></li>
+			
+				<li   id="Hln_11300" ><a  href="/p/412-1165-15289.php" title="校園管理">校園管理</a></li>
+			
+				<li   id="Hln_11853" ><a  href="/p/412-1165-18096.php" title="表單下載">表單下載</a></li>
+			
+				<li   id="Hln_15249" ><a  href="https://affairs.site.nthu.edu.tw/p/404-1165-256325.php?Lang=zh-tw" title="各項業務SOP">各項業務SOP</a></li>
+			
+				<li   id="Hln_14977" ><a  href="/p/412-1165-20769.php" title="志工招募">志工招募</a></li>
+			
+				<li   id="Hln_6944" ><a  href="/p/412-1165-2750.php" title="聯絡本組">聯絡本組</a></li>
+			
+            
+			</ul>
+		</div>
+	</div>
+</div>
+
+<script defer="defer">
+var hdtop = $('.header').height();
+$(window).scroll( function() { 
+    var top = $(this).scrollTop();
+    if( top > hdtop){
+      $('.header').addClass('navbar-fixed-top animated fadeInDown');
+      $('.header').parent().height(hdtop);
+      return;
+    }else{
+      $('.header').removeClass('navbar-fixed-top animated fadeInDown');
+      $('.header').parent().css('height', 'auto');
+    }
+});
+</script>
+
+
+
+	
+
+
+
+<script language="javascript">
+tabSwitch("ab28f9c3fb80614964d88195cf3d458d8_MenuTop_topnav2");
+</script>
+
+         
+         </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+$(document).ready(function(){
+$.hajaxOpenUrl("/app/index.php?Action=mobileloadmod&Type=mobilesch&Nbr=0",'#hd_search');
+});
+
+
+$('.navbar-toggle[data-target=".nav-toggle"]').click(function(){
+    if($('#collapseExample').hasClass('in')){
+		$('.navbar-toggle1[href="#collapseExample"]').removeClass('open');
+        $('#collapseExample').removeClass('in').css({'height': '0', 'overflow':'hidden'});
+    }
+	$(this).toggleClass('open');
+});
+</script>
+      
+      
+   
+
+
+
+
+
+
+	
+	</div>
+</div>
+
+
+
+
+	</div>
+</div>
+<script language="javascript">
+
+	tabSwitch("ab28f9c3fb80614964d88195cf3d458d8_MenuTop");
+
+
+
+if(typeof(_LoginHln)=='undefined') var _LoginHln = new hashUtil();
+
+if(typeof(_LogoutHln)=='undefined') var _LogoutHln = new hashUtil();
+
+if(typeof(_HomeHln)=='undefined') var _HomeHln = new hashUtil();
+
+if(typeof(_InternalHln)=='undefined') var _InternalHln = new hashUtil();
+
+
+$(document).ready(function(){
+   if(typeof(loginStat)=='undefined') {
+   	if(popChkLogin()) loginStat="login";
+   	else loginStat="logout";
+	}
+	dealHln(isHome,loginStat,$('div.hdmenu'));
+
+	
+	
+});
+</script>
+<noscript>本功能需使用支援JavaScript之瀏覽器才能正常操作</noscript>
+<!-- generated at Mon Oct 02 2023 16:43:19 --></div>
+
+
+<div class="main">
+<div class="minner">
+
+	
+	
+<div class="row col1 row_0">
+	<div class="mrow ">
+		
+			
+			
+			
+			 
+		
+			
+			
+			
+			
+				
+        		
+         	
+				<div class="col col_02">
+					<div class="mcol">
+					
+						
+						
+						<div id="Dyn_2_1" class="M3  ">
+
+<div class="module module-path md_style99">
+	<div class="minner">
+		<section class="mb">
+			<ol class="breadcrumb">
+			
+			
+				
+				
+				<li><a href="/index.php">首頁</a></li>
+				
+				
+			
+				
+				
+				
+            <li class="active"><a href="https://affairs.site.nthu.edu.tw/p/412-1165-20979.php?Lang=zh-tw">南大公車時刻表</a></li>
+				
+			
+			</ol>
+		</section>
+	</div>
+</div>
+
+</div>
+
+					
+						
+						
+						<div id="Dyn_2_2" class="M4  ">
+
+
+<div class="module module-cglist md_style2">
+<div class="minner">
+	<header class="mt mthide ">
+	 
+	
+</header>
+
+	
+   
+	<section class="mb">
+		<div class="mcont">
+			
+
+         
+
+
+
+<div class="mpgdetail">
+	
+		
+ 		
+		
+		
+		
+		
+	
+	
+   <div class="meditor"><!--app content start-->
+<div class="horizone-container horizone-bus-schedule-page">
+<div class="page__tabs">
+<div class="tab-item active">往南大</div>
+
+<div class="tab-item">往校本部</div>
+</div>
+
+<div class="page__info">
+<div class="horizone-row info-item">
+<div class="horizone-col-xs-3"><span class="item-label"> <span>行車方向</span> <span>Direction</span> </span></div>
+
+<div class="horizone-col-xs-9"><span class="item-text" id="direction"></span></div>
+</div>
+
+<div class="horizone-row info-item">
+<div class="horizone-col-xs-3"><span class="item-label"> <span>實施日期</span> <span>Valid Time</span> </span></div>
+
+<div class="horizone-col-xs-9"><span class="item-text" id="duration"></span></div>
+</div>
+
+<div class="horizone-row info-item">
+<div class="horizone-col-xs-3"><span class="item-label">行車路線</span></div>
+
+<div class="horizone-col-xs-9"><span class="item-text" id="route"></span></div>
+</div>
+
+<div class="horizone-row info-item">
+<div class="horizone-col-xs-3"><span class="item-label">Route</span></div>
+
+<div class="horizone-col-xs-9"><span class="item-text" id="routeEN"></span></div>
+</div>
+</div>
+
+<div class="page__body">
+<div id="horizone-bus-schedule-table-root">&nbsp;</div>
+</div>
+
+<div class="page__footer">
+<p><a class="footer-link" href="https://affairs.site.nthu.edu.tw/var/file/165/1165/img/277/284625854.pdf" target="_blank">📒 搭乘校巴資訊及維護搭乘秩序宣導</a></p>
+
+<p><a class="footer-link" href="https://affairs.site.nthu.edu.tw/var/file/165/1165/img/559009650.pdf" target="_blank">📒 校區區間車時刻表下載</a>事務組承辦人：楊小姐，分機31370</p>
+
+<div>元慶公司聯絡人：彭小姐，03-5284285、0930-930932</div>
+
+<div>Contact person：Division of Physical Facility: Ms. Yang Ext.31370</div>
+
+<div>Yuan Chin Transportation Company: Ms. Peng 03-5284285、0930-930932</div>
+</div>
+</div>
+<script>
+    /* 往南大校區 */
+    const towardSouthCampusInfo = {
+      direction: '往南大校區 (To Nanda Campus)',
+      duration: '2023/10/16 ~ 2023/11/12',
+      route: '北校門口 → 綜二館 → 人社院/生科館 → 台積館(經寶山路) → 南大校區校門口右側(食品路校牆邊)',
+      routeEN: 'School North Gate → General Building II → CHSS/CLS Building → TSMC Building(Baoshan Rd.) → The right side of NandaCampus front gate(Shipin Road)'
+    }
+    
+    // 平日時刻修改這裡, 把中括號整個取代掉
+    const weekdayBusScheduleTowardSouthCampus = [
+      {
+        time: '7:30',
+        description: '此為付費市區公車(83號公車直達兩校區)'
+      },
+      {
+        time: '7:40',
+        description: ''
+      },
+      {
+        time: '8:20',
+        description: ''
+      },
+      {
+        time: '9:30',
+        description: ''
+      },
+      {
+        time: '9:55',
+        description: ''
+      },
+      {
+        time: '10:25',
+        description: ''
+      },
+      {
+        time: '10:55',
+        description: '週五停駛'
+      },
+      {
+        time: '12:10',
+        description: ''
+      },
+      {
+        time: '12:15',
+        description: '週五停駛'
+      },
+      {
+        time: '12:25',
+        description: ''
+      },
+      {
+        time: '12:35',
+        description: ''
+      },
+      {
+        time: '12:40',
+        description: '此為付費市區公車(83號公車直達兩校區)'
+      },
+      {
+        time: '12:55',
+        description: ''
+      },
+      {
+        time: '13:10',
+        description: ''
+      },
+      {
+        time: '13:20',
+        description: ''
+      },
+      {
+        time: '14:25',
+        description: ''
+      },
+      {
+        time: '15:00',
+        description: '週五停駛'
+      },
+      {
+        time: '15:10',
+        description: ''
+      },
+      {
+        time: '15:15',
+        description: ''
+      },
+      {
+        time: '15:20',
+        description: ''
+      },
+      {
+        time: '15:45',
+        description: '此為付費市區公車(83號公車直達兩校區)'
+      },
+      {
+        time: '16:30',
+        description: ''
+      },
+      {
+        time: '17:20',
+        description: ''
+      },
+      {
+        time: '18:00',
+        description: ''
+      },
+      {
+        time: '18:15',
+        description: '週五停駛'
+      },
+      {
+        time: '18:30',
+        description: ''
+      },
+      {
+        time: '19:00',
+        description: '此為付費市區公車(83號公車直達兩校區)'
+      },
+      {
+        time: '19:10',
+        description: ''
+      },
+      {
+        time: '20:00',
+        description: '週五停駛'
+      },
+      {
+        time: '21:05',
+        description: ''
+      },
+      {
+        time: '21:55',
+        description: ''
+      },
+      {
+        time: '22:55',
+        description: ''
+      },
+    ]
+    
+    // 假日時刻修改這裡, 把中括號整個取代掉
+    const weekendBusScheduleTowardSouthCampus = [
+      {
+        time: '8:30',
+        description: ''
+      },
+      {
+        time: '12:30',
+        description: ''
+      },
+      {
+        time: '14:30',
+        description: ''
+      },
+      {
+        time: '17:30',
+        description: ''
+      },
+    ]
+
+    /* 往校本部 */
+    const towardMainCampusInfo = {
+      direction: '往校本部 (To Main Campus)',
+      duration: '2023/10/16 ~ 2023/11/12',
+      route: '南大校區校門口右側(食品路校牆邊) → 台積館(經寶山路) → 人社院/生科館 → 綜二館 → 北校門口',
+      routeEN: 'The right side of NandaCampus front gate(Shipin Road) → TSMC Building(Baoshan Rd.) → CHSS/CLS Builing → General Building II→School North Gate'
+    }
+
+    // 平日時刻修改這裡, 把中括號整個取代掉
+    const weekdayBusScheduleTowardMainCampus = [
+      {
+        time: '7:20',
+        description: ''
+      },
+      {
+        time: '7:33',
+        description: '此為付費市區公車(83號公車直達兩校區)'
+      },
+      {
+        time: '8:00',
+        description: ''
+      },
+      {
+        time: '8:40',
+        description: ''
+      },
+      {
+        time: '9:40',
+        description: ''
+      },
+      {
+        time: '9:50',
+        description: ''
+      },
+      {
+        time: '9:55',
+        description: ''
+      },      
+      {
+        time: '11:20',
+        description: ''
+      },
+      {
+        time: '12:05',
+        description: ''
+      },
+      {
+        time: '12:20',
+        description: ''
+      },
+      {
+        time: '12:23',
+        description: '此為付費市區公車(83號公車直達兩校區)'
+      },
+      {
+        time: '12:35',
+        description: ''
+      },
+      {
+        time: '12:55',
+        description: ''
+      },
+      {
+        time: '13:00',
+        description: ''
+      },
+      {
+        time: '14:00',
+        description: ''
+      },
+      {
+        time: '14:50',
+        description: '週五停駛'
+      },
+      {
+        time: '15:00',
+        description: ''
+      },
+      {
+        time: '15:05',
+        description: '週五停駛'
+      },
+      {
+        time: '15:15',
+        description: ''
+      },
+      {
+        time: '15:18',
+        description: '此為付費市區公車(83號公車直達兩校區)'
+      },
+      {
+        time: '15:40',
+        description: ''
+      },
+      {
+        time: '16:55',
+        description: ''
+      },
+      {
+        time: '17:30',
+        description: ''
+      },
+      {
+        time: '17:50',
+        description: '週五停駛'
+      },
+      {
+        time: '18:10',
+        description: ''
+      },
+      {
+        time: '18:30',
+        description: '週五停駛'
+      },
+      {
+        time: '18:40',
+        description: ''
+      },
+      {
+        time: '18:43',
+        description: '此為付費市區公車(83號公車直達兩校區)'
+      },
+      {
+        time: '19:40',
+        description: '週五停駛'
+      },
+      {
+        time: '20:40',
+        description: ''
+      },
+      {
+        time: '21:30',
+        description: ''
+      },
+      {
+        time: '22:20',
+        description: ''
+      },
+    ]
+    
+    // 假日時刻修改這裡, 把中括號整個取代掉
+    const weekendBusScheduleTowardMainCampus = [
+      {
+        time: '8:00',
+        description: ''
+      },
+      {
+        time: '12:00',
+        description: ''
+      },
+      {
+        time: '14:00',
+        description: ''
+      },
+      {
+        time: '17:00',
+        description: ''
+      },
+    ]
+
+    /* Init */
+    const directionElement = document.getElementById('direction');
+    const durationElement = document.getElementById('duration');
+    const routeElement = document.getElementById('route');
+    const routeEnElement = document.getElementById('routeEN');
+
+    directionElement.textContent = towardSouthCampusInfo.direction;
+    durationElement.textContent = towardSouthCampusInfo.duration;
+    routeElement.textContent = towardSouthCampusInfo.route;
+    routeEnElement.textContent = towardSouthCampusInfo.routeEN;
+
+    renderSchedule(
+      'horizone-bus-schedule-table-root',
+      weekdayBusScheduleTowardSouthCampus,
+      weekendBusScheduleTowardSouthCampus
+    );
+    
+    /* Tabs */
+    const tabElements = document.getElementsByClassName('tab-item');
+
+    const firstTabElement = tabElements[0];
+    const secondTabElement = tabElements[1];
+    
+    firstTabElement.addEventListener('click', function() {
+      if (!firstTabElement.className.includes('active')) {
+        const directionElement = document.getElementById('direction');
+        const durationElement = document.getElementById('duration');
+        const routeElement = document.getElementById('route');
+        const routeEnElement = document.getElementById('routeEN');
+
+        directionElement.textContent = towardSouthCampusInfo.direction;
+        durationElement.textContent = towardSouthCampusInfo.duration;
+        routeElement.textContent = towardSouthCampusInfo.route;
+        routeEnElement.textContent = towardSouthCampusInfo.routeEN;
+
+        renderSchedule(
+          'horizone-bus-schedule-table-root',
+          weekdayBusScheduleTowardSouthCampus,
+          weekendBusScheduleTowardSouthCampus
+        );
+
+        firstTabElement.classList.add('active');
+        secondTabElement.classList.remove('active');
+      }
+    });
+
+    secondTabElement.addEventListener('click', function() {
+      const directionElement = document.getElementById('direction');
+      const durationElement = document.getElementById('duration');
+      const routeElement = document.getElementById('route');
+      const routeEnElement = document.getElementById('routeEN');
+
+      directionElement.textContent = towardMainCampusInfo.direction;
+      durationElement.textContent = towardMainCampusInfo.duration;
+      routeElement.textContent = towardMainCampusInfo.route;
+      routeEnElement.textContent = towardMainCampusInfo.routeEN;
+
+      renderSchedule(
+        'horizone-bus-schedule-table-root',
+        weekdayBusScheduleTowardMainCampus,
+        weekendBusScheduleTowardMainCampus
+      );
+
+      if (!secondTabElement.className.includes('active')) {
+        secondTabElement.classList.add('active');
+        firstTabElement.classList.remove('active');
+      }
+    });
+    
+    /* Render */
+    function renderSchedule(rootId, weekdayBusSchedule, weekendBusSchedule) {
+      // 呈現 平日 or 假日 的時刻資訊
+      let busSchedule = weekdayBusSchedule;
+      if (isWeekend()) {
+        busSchedule = weekendBusSchedule
+      }
+
+      const root = document.getElementById(rootId);
+      root.innerHTML = '';
+    
+      const scheduleContainer = document.createElement("div");
+      scheduleContainer.setAttribute("class", "horizone-container");
+
+      /* 標頭 */
+      const scheduleHeader = document.createElement("div");
+      scheduleHeader.setAttribute("class", "horizone-row schedule-header");
+
+      const indexHeaderNode = document.createElement('div')
+      indexHeaderNode.setAttribute("class", "horizone-col-xs-3");
+      indexHeaderNode.textContent = '編號 (#)';
+
+      const timeHeaderNode = document.createElement('div')
+      timeHeaderNode.setAttribute("class", "horizone-col-xs-3");
+      timeHeaderNode.textContent = '時刻 (Dep. Time)';
+
+      const descriptionHeaderNode = document.createElement('div')
+      descriptionHeaderNode.setAttribute("class", "horizone-col-xs-6");
+      descriptionHeaderNode.textContent = '備註 (Note)';
+
+      scheduleHeader.append(indexHeaderNode, timeHeaderNode, descriptionHeaderNode);
+      scheduleContainer.append(scheduleHeader);
+
+      /* 時刻內容 */
+      for (let index = 0; index < busSchedule.length; index++) {
+        const scheduleRow = document.createElement("div");
+        scheduleRow.setAttribute("class", "horizone-row schedule-row");
+
+        const item = busSchedule[index];
+
+        // 判斷過時的時刻
+        const busHourMinute = item.time.split(':');
+        if (isTimeAfter(busHourMinute[0], busHourMinute[1])) {
+          scheduleRow.classList.add("schedule-row--disabled");
+        }
+        
+        // 編號
+        const indexNode = document.createElement('div')
+        indexNode.setAttribute("class", "horizone-col-xs-3");
+        indexNode.textContent = `#${index + 1}`;
+
+        // 時刻
+        const timeNode = document.createElement('div');
+        timeNode.setAttribute("class", "horizone-col-xs-3 row-item item--focus");
+        timeNode.textContent = item.time;
+
+        // 說明
+        const descriptionNode = document.createElement('div');
+        descriptionNode.setAttribute("class", "horizone-col-xs-6 row-item item--description");
+        descriptionNode.textContent = item.description;
+
+        // 放入 Row
+        scheduleRow.append(indexNode, timeNode, descriptionNode);
+        scheduleContainer.append(scheduleRow)
+
+        // 放入 Divider
+        if (index < busSchedule.length - 1) {
+          const dividerNode = document.createElement('div');
+          dividerNode.setAttribute("class", "schedule-row--divider");
+          scheduleContainer.append(dividerNode)
+        }
+      }
+
+      root.append(scheduleContainer);
+    }
+
+    /* Utils */
+    function isWeekend() {
+      const today = new Date();
+      const dayOfWeek = today.getDay();
+      return dayOfWeek === 0 || dayOfWeek === 6;
+    }
+
+    function isTimeAfter(targetHour, targetMinute) {
+      const now = new Date();
+      
+      const currentHour = now.getHours();
+      const currentMinute = now.getMinutes();
+      
+      const targetTimeInMinutes = parseInt(targetHour) * 60 + parseInt(targetMinute);
+      const currentTimeInMinutes = currentHour * 60 + currentMinute;
+      
+      return currentTimeInMinutes > targetTimeInMinutes;
+    }
+  </script>
+<style type="text/css">.horizone-container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.horizone-container.fluid {
+  width: 100% !important;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-container {
+    width: 750px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .horizone-container {
+    width: 870px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .horizone-container {
+    width: 1170px;
+  }
+}
+
+.horizone-row:after {
+  content: "";
+  display: block;
+  clear: both;
+  width: 100%;
+}
+
+[class^="horizone-col-"] {
+  float: left;
+  width: 100%;
+}
+
+.horizone-col-xs-1 {
+  width: calc( 100% * 1 / 12);
+}
+
+.horizone-col-xs-2 {
+  width: calc( 100% * 2 / 12);
+}
+
+.horizone-col-xs-3 {
+  width: calc( 100% * 3 / 12);
+}
+
+.horizone-col-xs-4 {
+  width: calc( 100% * 4 / 12);
+}
+
+.horizone-col-xs-5 {
+  width: calc( 100% * 5 / 12);
+}
+
+.horizone-col-xs-6 {
+  width: calc( 100% * 6 / 12);
+}
+
+.horizone-col-xs-7 {
+  width: calc( 100% * 7 / 12);
+}
+
+.horizone-col-xs-8 {
+  width: calc( 100% * 8 / 12);
+}
+
+.horizone-col-xs-9 {
+  width: calc( 100% * 9 / 12);
+}
+
+.horizone-col-xs-10 {
+  width: calc( 100% * 10 / 12);
+}
+
+.horizone-col-xs-11 {
+  width: calc( 100% * 11 / 12);
+}
+
+.horizone-col-xs-12 {
+  width: calc( 100% * 12 / 12);
+}
+.horizone-bus-schedule-page .page__tabs {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 30px;
+}
+
+.horizone-bus-schedule-page .page__tabs .tab-item {
+  font-size: 16px;
+  background: #fff;
+  color: #484747;
+  border: 1px solid #6F1B6C;
+  padding: 6px 24px;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-bus-schedule-page .page__tabs .tab-item {
+    font-size: 18px;
+    padding: 8px 32px;
+  }
+}
+
+.horizone-bus-schedule-page .page__tabs .tab-item.active {
+  background: #6F1B6C;
+  color: #fff;
+  border: 1px solid #6F1B6C;
+}
+
+.horizone-bus-schedule-page .page__header {
+  margin-bottom: 12px;
+}
+
+.horizone-bus-schedule-page .page__header .header-title {
+  font-size: 16px;
+  height: 40px;
+  line-height: 40px;
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.horizone-bus-schedule-page .page__info {
+  font-size: 14px;
+  padding: 12px 0;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-bus-schedule-page .page__info {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+}
+
+.horizone-bus-schedule-page .page__info .info-item {
+  margin-bottom: 12px;
+}
+
+.horizone-bus-schedule-page .page__info .info-item .item-label {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  color: #741D80;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-bus-schedule-page .page__info .info-item .item-label {
+    flex-direction: row;
+    gap: 4px;
+  }
+}
+
+.horizone-bus-schedule-page .page__info .info-item .item-text {
+  font-weight: 500;
+  color: #424242;
+}
+
+.horizone-bus-schedule-page .page__body {
+  padding-bottom: 12px;
+}
+
+.horizone-bus-schedule-page .page__footer {
+  font-size: 12px;
+  line-height: 20px;
+  color: #424242;
+  text-align: center;
+  padding: 60px 0 40px 0;
+}
+
+.horizone-bus-schedule-page .page__footer .footer-link {
+  display: block;
+  margin-bottom: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-bus-schedule-page .page__footer {
+    font-size: 16px;
+    line-height: 30px;
+  }
+}
+
+/* horizone-bus-schedule-table-root */
+.schedule-header {
+  padding: 4px 12px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #424242;
+}
+
+@media screen and (min-width: 768px) {
+  .schedule-header {
+    font-size: 18px;
+  }
+}
+
+.schedule-row {
+  padding: 12px;
+}
+
+@media screen and (min-width: 768px) {
+  .schedule-row {
+    font-size: 18px;
+  }
+}
+
+.schedule-row.schedule-row--disabled {
+  color: #bdbdbd !important;
+}
+
+.schedule-row.schedule-row--disabled .row-item {
+  font-weight: normal !important;
+  color: #bdbdbd !important;
+}
+
+.schedule-row .row-item.item--focus {
+  font-weight: bold;
+  color: #741D80;
+}
+
+.schedule-row .row-item.item--red-line {
+  color: #F44336;
+}
+
+.schedule-row .row-item.item--green-line {
+  color: #4CAF50;
+}
+
+.schedule-row .row-item.item--description {
+  font-size: 14px;
+  color: #424242;
+}
+
+.schedule-row--divider {
+  border-bottom: 1px solid #e4e4e4;
+}
+</style>
+<!--app content end--></div>
+	
+	
+	
+</div>
+
+
+
+
+
+		</div>
+	</section>
+   
+</div>
+</div>
+
+
+
+
+
+
+
+</div>
+
+					
+					</div>
+				</div> 
+			 
+		
+			
+			
+			
+			 
+		
+	</div>
+</div>
+	
+
+</div>
+</div>
+
+
+	<style>
+	@media (min-width: 481px) {.row_0 .col_01 { width: 0%;}.row_0 .col_02 { width: 100%;}.row_0 .col_03 { width: 0%;}}
+	</style>
+
+
+<div id="Dyn_footer">
+<div class="footer">
+<div class="minner container">
+
+
+
+
+
+<ul class="langbar">
+
+	 <li><a class="active" title="繁體"><span>繁體</span></a></li>
+
+	 <li><a href="#" onclick="openLangUrl('en');return false;" title="English"><span>English</span></a></li>
+
+</ul>
+<script>
+function openLangUrl(p_lang) {
+   var curlang = getUrlParam("Lang");
+   if(curlang!="") {
+      var str = window.location+"";
+      window.location = str.replace("Lang="+curlang,"Lang="+p_lang);
+   }
+   else {
+      if(window.location.href.indexOf("?")>0)
+         window.location=window.location+'&Lang='+p_lang;
+      else
+         window.location=window.location+'?Lang='+p_lang;
+   }
+}
+function getUrlParam(paramName,url){
+	if(typeof url=="undefined") url=window.location;
+   var oRegex = new RegExp( '[\?&]' + paramName + '=([^&]+)', 'i' ) ;
+   var oMatch = oRegex.exec(url) ;
+   if ( oMatch && oMatch.length > 1 )
+      return oMatch[1] ;
+   else
+      return '' ;
+}
+</script>
+
+
+
+<div class="copyright">
+<div class="meditor">
+	<style type="text/css">.head_01 {
+position: relative;
+height: 190px;
+}
+</style>
+<p>&nbsp;校本部電話：03-5715131轉承辦人分機&nbsp; &nbsp;傳真：03-5724872&nbsp; 服務信箱：affairs@my.nthu.edu.tw&nbsp; 300044 新竹市光復路二段101號&nbsp;</p>
+<p><span style="font-family: &quot;Microsoft JhengHei&quot;, &quot;Microsoft YaHei&quot;, Tohoma, Arial; font-size: 14px; text-align: center;">Copyright (c) 2019 National Tsing Hua University ALL RIGHTS RESERVED</span></p>
+	
+</div>
+</div>
+
+
+
+
+
+</div>
+</div>
+<!-- generated at Thu Sep 07 2023 09:24:59 --></div>
+
+
+</div>
+</div>
+<div class="fpbgvideo"></div>
+
+
+
+
+<div id="_pop_login" class="mpopdiv">
+<script>$(document).ready(function() {$.hajaxOpenUrl('/app/index.php?Action=mobileloadmod&Type=mobilepoplogin&Nbr=0','#_pop_login','',function(){menuDropAct();});})</script>
+</div>
+
+
+<div id="_pop_tips" class="mtips">
+	<div class="mbox">
+	</div>
+</div>
+<div id="_pop_dialog" class="mdialog">
+	<div class="minner">
+		<div class="mcont">
+		</div>
+		<footer class="mdialog-foot">
+        	<button type="submit" class="mbtn mbtn-s">OK</button>
+        	<button type="submit" class="mbtn mbtn-c">Cancel</button>
+		</footer>
+	</div>
+</div>
+
+
+<!--<script>NProgress.done();</script>-->
+<script>
+function popChkLogin(){
+	if(typeof(loginStat)=='undefined') {
+   	var chkstat=0;
+   	var chkUrl='/app/index.php?Action=mobilelogin&Op=chklogin';
+   	var chkData = [];
+   	var chkObj=$.hajaxReturn(chkUrl,chkData);
+   	chkstat=chkObj.stat;
+		if(chkstat) {
+			loginStat="login"; 
+			return true;
+		}else {
+			loginStat="logout"; 
+			return false;
+		}	
+	}else {
+		if(loginStat=="login") return true;
+		else return false;
+	}
+}
+
+</script>
+<!-- generated at Thu Nov 02 2023 10:45:18 --></body></html>

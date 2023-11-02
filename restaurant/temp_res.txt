@@ -1,0 +1,1660 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=1, minimum-scale=1.0, maximum-scale=3.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="keywords" content="請填寫網站關鍵記事，用半角逗號(,)隔開" />
+<meta name="description" content="&lt;pre&gt;
+&amp;lt;!--app content start--&amp;gt;
+&amp;lt;div class=&amp;quot;horizone-restaurants-page&amp;quot;&amp;gt;
+&amp;lt;div id=&amp;quot;horizone-restaurants-tabs-root&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+...&lt;/pre&gt;" />
+<meta content="index,follow" name="robots">
+<title>餐廳及服務性廠商 </title>
+
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<link rel="bookmark" href="/images/favicon.ico" type="image/x-icon" />
+
+
+<link rel="stylesheet" href="/var/file/494/1494/mobilestyle/combine-zh-tw.css?t=1697087709" type="text/css" />
+<script language="javascript"><!--
+ var isHome = false 
+ --></script>
+<script language="javascript"><!--
+ var isExpanMenu = false 
+ --></script>
+<script type="text/javascript" src="/var/file/js/m_20230503.js" ></script>
+</head>
+ 
+<body class="page_mobileptdetail  ">
+
+<div class="wrap">
+
+
+<a href="#start-C" class="focusable" title="跳到主要內容區">跳到主要內容區</a>
+
+
+<div class="fpbgvideo"></div>
+<div class="minner">
+
+<div id="Dyn_head">
+<div class="header">
+	<div class="minner ">
+
+
+
+
+
+
+
+	
+<div class="selfhead">
+		<div class="meditor">
+	
+      
+         
+			<!--第一行-->
+<div class="top_first">
+<div class="top_first_main container">
+<div class="logo1"><a href="/index.php" title="清華大學_經管組">總務處經管組<span style="font-size:0.5em;"><span style="font-family:times new roman,times,serif;">　Division of Dining and Facilities Management</span></span></a></div>
+
+<div class="logo2"><a href="/index.php" title="清華大學_經管組"><img src="/var/file/1/1001/img/logo.png" /> </a></div>
+</div>
+</div>
+<!--第二行-->
+
+<div class="top_second">
+<div class="top_second_main container">
+<div class="mycollapse"><button class="navbar-toggle" data-target=".nav-toggle" data-toggle="collapse" type="button"><span class="glyphicons show_lines">Menu</span></button>
+
+<div class="navbar-collapse collapse nav-toggle" id="collapseExample2">
+<div class="well">
+<div class="topnav1" style="order: 2;">
+				
+				
+
+
+
+   
+<div class="headnavcust">
+	<div class="mnavbar mn-collapse">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".hd-topnav1">
+			<span class="glyphicons show_lines">Menu</span>
+		</button>
+		<div class="nav-toggle collapse navbar-collapse iosScrollToggle hd-topnav1">
+			<div class="hdmenu">
+				<ul class="nav navbar-nav" id="ac6f88fc202a19880f82af2272d4139a0_MenuTop_topnav1">
+				
+					<li   id="Hln_9208" ><a  href="http://ddfm.site.nthu.edu.tw/index.php?Lang=en" title="ENGLISH">ENGLISH</a></li>
+				
+					<li   id="Hln_9691" ><a  href="http://tel.net.nthu.edu.tw/nthusearch/dept.php?dd=2521" title="通訊錄">通訊錄</a></li>
+				
+					<li   id="Hln_9204" ><a  href="http://ddfm.site.nthu.edu.tw/" title="回首頁">回首頁</a></li>
+				
+					<li   id="Hln_9206" ><a  href="http://general.site.nthu.edu.tw/" title="總務處">總務處</a></li>
+				
+					<li   id="Hln_9205" ><a  href="http://www.nthu.edu.tw/" title="清大首頁">清大首頁</a></li>
+				
+					<li   id="Hln_9207" ><a  href="/platform" title="網站管理">網站管理</a></li>
+				
+        		
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+$(document).ready(function(){
+	$(".mnavbar .navbar-toggle").click(function(){
+		$(this).toggleClass("open");
+	});
+   $('.iosScrollToggle').on('shown.bs.collapse', function () {
+		var togglePos = $(this).css('position');
+      if(togglePos !== 'static'){
+          ModalHelper.afterOpen();
+      }
+    });
+
+    $('.iosScrollToggle').on('hide.bs.collapse', function () {
+		var togglePos = $(this).css('position');
+      if(togglePos !== 'static'){
+			ModalHelper.beforeClose();
+      }
+    });
+	
+});
+</script>
+
+
+
+	
+
+
+<script language="javascript">
+tabSwitch("ac6f88fc202a19880f82af2272d4139a0_MenuTop_topnav1");
+</script>
+
+         
+			</div>
+
+<div id="hd_search" style="order: 3;">&nbsp;</div>
+
+<div class="topnav2" style="order: 1;">
+				
+				
+
+
+
+   
+<div class="headnavcust">
+	<div class="mnavbar mn-collapse">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".hd-topnav2">
+			<span class="glyphicons show_lines">Menu</span>
+		</button>
+		<div class="nav-toggle collapse navbar-collapse iosScrollToggle hd-topnav2">
+			<div class="hdmenu">
+				<ul class="nav navbar-nav" id="ac6f88fc202a19880f82af2272d4139a0_MenuTop_topnav2">
+				
+					<li   id="Hln_9210" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="http://ddfm.site.nthu.edu.tw/p/412-1494-84.php?Lang=zh-tw" title="關於本組">關於本組</a><ul class="dropdown-menu"><li  id="Hln_9211"><a href="http://ddfm.site.nthu.edu.tw/p/412-1494-85.php?Lang=zh-tw" title="人員職掌">人員職掌</a></li><li  id="Hln_9217"><a href="http://ddfm.site.nthu.edu.tw/p/412-1494-16429.php" title="聯絡本組">聯絡本組</a></li><li  id="Hln_9480"><a href="http://ddfm.site.nthu.edu.tw/p/412-1494-16578.php?Lang=zh-tw" title="本組簡介">本組簡介</a></li></ul></li>
+				
+					<li   id="Hln_9209" ><a  href="http://ddfm.site.nthu.edu.tw/p/412-1494-82.php" title="最新消息">最新消息</a></li>
+				
+					<li   id="Hln_9358" ><a  href="https://ddfm.site.nthu.edu.tw/p/404-1494-256455.php?Lang=zh-tw" title="餐廳及服務性廠商">餐廳及服務性廠商</a></li>
+				
+					<li   id="Hln_9214" ><a  href="http://ddfm.site.nthu.edu.tw/p/412-1494-16426.php" title="招待所業務">招待所業務</a></li>
+				
+					<li   id="Hln_9215" ><a  href="http://ddfm.site.nthu.edu.tw/p/412-1494-16427.php" title="會館線上訂房">會館線上訂房</a></li>
+				
+					<li   id="Hln_9481" ><a  href="https://ddfm.site.nthu.edu.tw/p/412-1494-18627.php?Lang=zh-tw" title="作業流程">作業流程</a></li>
+				
+					<li   id="Hln_15180" ><a  href="https://ddfm.site.nthu.edu.tw/p/412-1494-20869.php?Lang=zh-tw" title="防疫專區">防疫專區</a></li>
+				
+					<li   id="Hln_14395" ><a  href="https://ddfm.site.nthu.edu.tw/p/404-1494-241370.php?Lang=zh-tw" title="招商專區">招商專區</a></li>
+				
+					<li   id="Hln_9213" ><a  href="http://ddfm.site.nthu.edu.tw/p/412-1494-16425.php" title="表單下載">表單下載</a></li>
+				
+        		
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+	
+
+
+<script language="javascript">
+tabSwitch("ac6f88fc202a19880f82af2272d4139a0_MenuTop_topnav2");
+</script>
+
+         
+         </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+$(document).ready(function(){
+$.hajaxOpenUrl("/app/index.php?Action=mobileloadmod&Type=mobilesch&Nbr=0",'#hd_search');
+});
+
+
+$('.navbar-toggle[data-target=".nav-toggle"]').click(function(){
+    if($('#collapseExample').hasClass('in')){
+  $('.navbar-toggle1[href="#collapseExample"]').removeClass('open');
+        $('#collapseExample').removeClass('in').css({'height': '0', 'overflow':'hidden'});
+    }
+ $(this).toggleClass('open');
+});
+</script>
+      
+      
+   
+
+
+
+
+
+
+	
+	</div>
+</div>
+
+
+
+
+	</div>
+</div>
+<script language="javascript">
+
+	tabSwitch("ac6f88fc202a19880f82af2272d4139a0_MenuTop");
+
+
+
+if(typeof(_LoginHln)=='undefined') var _LoginHln = new hashUtil();
+
+if(typeof(_LogoutHln)=='undefined') var _LogoutHln = new hashUtil();
+
+if(typeof(_HomeHln)=='undefined') var _HomeHln = new hashUtil();
+
+if(typeof(_InternalHln)=='undefined') var _InternalHln = new hashUtil();
+
+
+$(document).ready(function(){
+   if(typeof(loginStat)=='undefined') {
+   	if(popChkLogin()) loginStat="login";
+   	else loginStat="logout";
+	}
+	dealHln(isHome,loginStat,$('div.hdmenu'));
+
+	
+	
+});
+</script>
+<noscript>本功能需使用支援JavaScript之瀏覽器才能正常操作</noscript>
+<!-- generated at Thu Nov 02 2023 10:07:48 --></div>
+
+
+<div class="main">
+<div class="minner">
+
+	
+	
+<div class="row col1 row_0">
+	<div class="mrow container">
+		
+			
+			
+			
+			 
+		
+			
+			
+			
+			
+				
+        		
+         	
+				<div class="col col_02">
+					<div class="mcol">
+					
+						
+						
+						<div id="Dyn_2_1" class="M3  ">
+
+<div class="module module-path md_style2">
+	<div class="minner">
+		<section class="mb">
+			<ol class="breadcrumb">
+			
+			
+				
+				
+				
+            <li class="active"><a href="/index.php">首頁</a></li>
+				
+			
+			</ol>
+		</section>
+	</div>
+</div>
+
+</div>
+
+					
+						
+						
+						<div id="Dyn_2_2" class="M23  ">
+
+
+
+
+
+<div class="module module-detail md_style1">
+	<div class="module-inner">
+	<section class="mb">
+		<div class="mpgtitle">
+		<h2 class="hdline"><a href="https://ddfm.site.nthu.edu.tw/p/404-1494-256455.php?Lang=zh-tw" title='餐廳及服務性廠商(另開新視窗)' >餐廳及服務性廠商</a></h2>
+		</div>
+		<div class="mcont">
+			
+
+			
+
+
+
+<div class="mpgdetail">
+	
+		
+ 		
+		
+		
+		
+		
+	
+	
+   <div class="meditor"><!--app content start-->
+<div class="horizone-restaurants-page">
+<div id="horizone-restaurants-tabs-root">&nbsp;</div>
+
+<div id="horizone-restaurants-cards-root">&nbsp;</div>
+
+<div class="horizone-container link-section">
+<div class="section-title">其他營業資訊連結</div>
+
+<div class="section-body">
+<div class="horizone-row">
+<div class="horizone-col-xs-12">
+<div class="body-link"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBxtqTJPYem9CZW0TeWfs1HbgSox5SVEa--lVup4s-ydstPE7YAyXZoEc2vRruQx8ZMy4TBiTwe_f0/pubhtml" target="_blank">水木臨時櫃 </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  const restaurantsData = [
+    {
+      'building': '小吃部',
+      'restaurants': [
+        {'area': '小吃部',
+          'image': 'https://img.onl/CYp5nN',
+          'name': '7-ELEVEN',
+          'note': '',
+          'phone': '0920-229-711, 03-5166254',
+          'schedule': {'saturday': '24小時',
+                      'sunday': '24小時',
+                      'weekday': '24小時'}},
+        {'area': '小吃部',
+          'image': 'https://img.onl/KvsZAz',
+          'name': '麥當勞',
+          'note': '',
+          'phone': '03-5727801',
+          'schedule': {'saturday': '7:00-24:00',
+                      'sunday': '7:00-24:00',
+                      'weekday': '7:00-24:00'}},
+        {'area': '小吃部',
+          'image': 'https://img.onl/P2aHWJ',
+          'name': '瑞斯飯糰',
+          'note': '11月每週日暫停營業',
+          'phone': '03-5751757',
+          'schedule': {'saturday': '7:00-14:00',
+                      'sunday': '',
+                      'weekday': '7:00-14:00'}},
+        {'area': '小吃部',
+          'image': 'https://img.onl/T32cIz',
+          'name': '漢城異國美食',
+          'note': '11月每週日暫停營業',
+          'phone': '0911-684-701',
+          'schedule': {'saturday': '11:00-14:00, 17:00-20:00',
+                      'sunday': '11:00-14:00, 17:00-20:00',
+                      'weekday': '11:00-14:00, 17:00-20:00'}},
+        {'area': '小吃部',
+          'image': 'https://img.onl/rNJlc3',
+          'name': '對味',
+          'note': '11月每週六暫停營業',
+          'phone': '0912-624-037',
+          'schedule': {'saturday': '11:00-14:00, 17:00-20:00',
+                      'sunday': '11:00-14:00, 17:00-20:00',
+                      'weekday': '11:00-14:00, 17:00-20:00'}},
+        {'area': '小吃部',
+          'image': 'https://img.onl/YnaYzB',
+          'name': '一番快餐',
+          'note': '11月每週六暫停營業',
+          'phone': '0933-511-522',
+          'schedule': {'saturday': '',
+                      'sunday': '11:00-20:00',
+                      'weekday': '11:00-20:00'}},
+        {'area': '小吃部',
+          'image': 'https://img.onl/JbMLOG',
+          'name': '天燡廚',
+          'note': '11月每週六暫停營業，11/2暫停營業',
+          'phone': '0988-261-964',
+          'schedule': {'saturday': '',
+                      'sunday': '10:30-14:00, 17:00-20:00',
+                      'weekday': '10:30-14:00, 17:00-20:00'}},
+        {'area': '小吃部',
+          'image': 'https://img.onl/uC2VPj',
+          'name': '品嘉日式料理',
+          'note': '11月每週六暫停營業',
+          'phone': '0976-618-715',
+          'schedule': {'saturday': '',
+                      'sunday': '11:00-20:00',
+                      'weekday': '11:00-20:00'}},
+        {'area': '小吃部',
+          'image': 'https://img.onl/E7u7vL',
+          'name': '鳳荷三鮮',
+          'note': '11月每週五暫停營業',
+          'phone': '0928-391-618',
+          'schedule': {'saturday': '10:30-14:00, 17:00-20:00',
+                      'sunday': '',
+                      'weekday': '10:30-14:00, 17:00-20:00'}},
+        {'area': '小吃部',
+          'image': 'https://img.onl/D2dhIw',
+          'name': '珈名鮮茶',
+          'note': '11月每週日暫停營業',
+          'phone': '0952-173-353, 0953-173-353',
+          'schedule': {'saturday': '10:30-20:00',
+                      'sunday': '',
+                      'weekday': '10:30-20:00'}}
+      ]
+    },
+    {
+      'building': '水木生活中心',
+      'restaurants': [
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/yhMEB3',
+          'name': '四海遊龍',
+          'note': '11月每週六暫停營業',
+          'phone': '0906-569-363',
+          'schedule': {'saturday': '',
+                      'sunday': '11:00-19:30',
+                      'weekday': '11:00-19:30'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/HO0FVN',
+          'name': '朕的嚐粉',
+          'note': '11月每週六暫停營業， 寒、暑假不營業',
+          'phone': '0920-742-168',
+          'schedule': {'saturday': '',
+                      'sunday': '11:15-13:30, 16:30-18:45',
+                      'weekday': '11:15-13:30, 16:30-18:45'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/mwQ6pc',
+          'name': '軒韻手作茶飲專賣店',
+          'note': '11月每週六暫停營業',
+          'phone': '0985-695-090',
+          'schedule': {'saturday': '10:30-20:00',
+                      'sunday': '',
+                      'weekday': '10:30-20:00'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/E4nqWP',
+          'name': '羴羊肉',
+          'note': '11月每週六暫停營業',
+          'phone': '0905-151-501',
+          'schedule': {'saturday': '11:30-20:00',
+                      'sunday': '11:30-20:00',
+                      'weekday': '11:30-20:00'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/z8or36',
+          'name': '郁百分水果行',
+          'note': '11月每週六暫停營業',
+          'phone': '0913-216-583',
+          'schedule': {'saturday': '',
+                      'sunday': '9:00-19:30',
+                      'weekday': '9:00-19:30'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/dfLBiQ',
+          'name': '金展自助餐',
+          'note': '11月每週六暫停營業，11/5、11/19暫停營業',
+          'phone': '0921-417-797',
+          'schedule': {'saturday': '',
+                      'sunday': '10:30-13:30, 16:30-19:15',
+                      'weekday': '10:30-13:30, 16:30-19:15'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/QSCctU',
+          'name': 'A華加湯滷味',
+          'note': '11月每週六暫停營業',
+          'phone': '0917-523-901',
+          'schedule': {'saturday': '',
+                      'sunday': '11:00-19:00',
+                      'weekday': '11:00-19:00'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/f8sBq7',
+          'name': '利竫和食',
+          'note': '11月每週六暫停營業',
+          'phone': '0955-520-634',
+          'schedule': {'saturday': '',
+                      'sunday': '11:00-19:30',
+                      'weekday': '11:00-19:30'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/szdEq9',
+          'name': '弘謙食堂',
+          'note': '11月每週六暫停營業',
+          'phone': '0973-633-683',
+          'schedule': {'saturday': '',
+                      'sunday': '11:00-19:30',
+                      'weekday': '11:00-19:30'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/cbh066',
+          'name': '晨光早午餐',
+          'note': '11月每週六暫停營業',
+          'phone': '0989-382-100',
+          'schedule': {'saturday': '',
+                      'sunday': '6:30-14:00',
+                      'weekday': '6:30-14:00'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/WS4G8e',
+          'name': '小木屋鬆餅',
+          'note': '11月每週六暫停營業',
+          'phone': '03-5710188',
+          'schedule': {'saturday': '',
+                      'sunday': '10:30-20:00',
+                      'weekday': '10:30-20:00'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/KXPioP',
+          'name': '眼鏡部',
+          'note': '每週日暫停營業',
+          'phone': '校內分機 36701,03-5727099,0929-750-660',
+          'schedule': {'saturday': '10:00-20:00',
+                      'sunday': '10:00-20:00',
+                      'weekday': '週一~週五:10:00-20:00、週六:10:00-12:00'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/XUmfh',
+          'name': '洗衣部',
+          'note': '每週六、日暫停營業',
+          'phone': '0915-117-809',
+          'schedule': {'saturday': '',
+                      'sunday': '',
+                      'weekday': '13:00-17:00'}},
+        {'area': '水木生活中心1樓',
+          'image': 'https://img.onl/FjYSxC',
+          'name': '水木百貨',
+          'note': '每週日暫停營業',
+          'phone': '03-5717838',
+          'schedule': {'saturday': '8:00-21:00',
+                      'sunday': '',
+                      'weekday': '週一~週五8:00-22:00、週六8:00-21:00'}},
+        {'area': '水木生活中心2樓',
+          'image': 'https://img.onl/UuxjY5',
+          'name': '胖達咖啡',
+          'note': '每週六暫停營業',
+          'phone': '03-5722245,0933-601-323',
+          'schedule': {'saturday': '',
+                      'sunday': '週日12:00-18:00',
+                      'weekday': '週一~週五:11:00-20:00、週日12:00-18:00'}},
+        {'area': '水木生活中心2樓',
+          'image': 'https://img.onl/tU3n1n',
+          'name': '馬六甲',
+          'note': '每週日暫停營業',
+          'phone': '0989-799-911',
+          'schedule': {'saturday': '11:00-16:00',
+                      'sunday': '',
+                      'weekday': '週一~週五:11:00-19:00、週六:11:00-16:00'}},
+        {'area': '水木生活中心2樓',
+          'image': 'https://img.onl/sT2HMU',
+          'name': '理髮部',
+          'note': '第2、4周之週四暫停營業',
+          'phone': '03-5736438',
+          'schedule': {'saturday': '8:30-19:00',
+                      'sunday': '8:30-19:00',
+                      'weekday': '週一~週五8:30-19:30、週六、週日:8:30-19:00'}},
+        {'area': '水木生活中心2樓',
+          'image': 'https://img.onl/L4wqrU',
+          'name': '利捷打字行',
+          'note': '每週六、日暫停營業',
+          'phone': '03-5726848,0910-036-249',
+          'schedule': {'saturday': '',
+                      'sunday': '',
+                      'weekday': '7:30-20:00'}}
+      ]
+    },
+    {
+      'building': '風雲樓',
+      'restaurants': [
+        {'area': '風雲1樓',
+          'image': 'https://img.onl/U3UhvQ',
+          'name': '樂菓烘焙坊 (誠實麵包店)',
+          'note': '',
+          'phone': '0987-430-886',
+          'schedule': {'saturday': '10:00-20:00',
+                      'sunday': '10:00-20:00',
+                      'weekday': '10:00-20:00'}},
+        {'area': '風雲1樓',
+          'image': 'https://img.onl/34l5Yl',
+          'name': '水木書苑',
+          'note': '每週日暫停營業',
+          'phone': '校內分機36705,03-5716800,0958-137-850',
+          'schedule': {'saturday': '10:30-19:00',
+                      'sunday': '',
+                      'weekday': '9:30-19:00'}},
+        {'area': '風雲1樓',
+          'image': 'https://img.onl/wGZTrB',
+          'name': 'Straight A',
+          'note': '每週六、日及國定假日暫停營業',
+          'phone': '03-5714647',
+          'schedule': {'saturday': '',
+                      'sunday': '',
+                      'weekday': '11:00-19:00'}},
+        {'area': '風雲2樓',
+          'image': 'https://img.onl/1KpyD',
+          'name': '熊本鍋物',
+          'note':'每週六、日暫停營業',
+          'phone': '03-5720889,0986-004-599',
+          'schedule': {'saturday': '',
+                      'sunday': '',
+                      'weekday': '11:00-24:00'}},
+        {'area': '風雲2樓',
+          'image': 'https://img.onl/xjN1Fh',
+          'name': '禾豐蔬食',
+          'note': '11月每週日暫停營業，11/3-11/4暫停營業',
+          'phone': '0909-787-069',
+          'schedule': {'saturday': '',
+                      'sunday': '',
+                      'weekday': '11:00-14:00, 17:00-20:00'}},
+        {'area': '風雲2樓',
+          'image': 'https://img.onl/DISSmc',
+          'name': '紅燒如意坊',
+          'note': '11月每週日暫停營業',
+          'phone': '0908-018-900',
+          'schedule': {'saturday': '11:00-14:00, 17:00-19:30',
+                      'sunday': '',
+                      'weekday': '11:00-14:00, 17:00-19:30'}},
+        {'area': '風雲2樓',
+          'image': 'https://img.onl/OoaTb',
+          'name': '茗釀茶品',
+          'note': '11月每週日暫停營業',
+          'phone': '0987-003-821',
+          'schedule': {'saturday': '10:00-20:00',
+                      'sunday': '',
+                      'weekday': '10:00-20:00'}},
+        {'area': '風雲2樓',
+          'image': 'https://img.onl/fI8Fat',
+          'name': '蘇記食堂',
+          'note': '每週六、日暫停營業及10、11月每週一~週五晚餐暫停營業',
+          'phone': '0911-333-292',
+          'schedule': {'saturday': '',
+                      'sunday': '',
+                      'weekday': '11:00-14:00, 17:00-20:00'}},
+        {'area': '風雲2樓',
+          'image': 'https://img.onl/Ma2QA',
+          'name': '友記快餐館',
+          'note': '11月每週日暫停營業',
+          'phone': '0918-609-833',
+          'schedule': {'saturday': '11:00-14:00, 17:00-20:00',
+                      'sunday': '',
+                      'weekday': '11:00-14:00, 17:00-20:00'}},
+        {'area': '風雲2樓',
+          'image': 'https://img.onl/ODfn8f',
+          'name': '蘇記牛肉麵',
+          'note': '11月每週日暫停營業',
+          'phone': '0911-333-292',
+          'schedule': {'saturday': '11:00-14:00, 17:00-20:00',
+                      'sunday': '',
+                      'weekday': '11:00-14:00, 17:00-20:00'}},
+        {'area': '風雲2樓',
+          'image': 'https://img.onl/qXGSnS',
+          'name': '帕森義大利麵',
+          'note': '11月每週日暫停營業',
+          'phone': '0963-572-818',
+          'schedule': {'saturday': '11:00-14:00, 17:00-20:00',
+                      'sunday': '',
+                      'weekday': '11:00-14:00, 17:00-20:00'}},
+        {'area': '風雲2樓',
+          'image': 'https://img.onl/6Svbif',
+          'name': '顏記文昌雞',
+          'note': '11月每週日暫停營業',
+          'phone': '0976-475-300',
+          'schedule': {'saturday': '11:00-14:00, 17:00-20:00',
+                      'sunday': '',
+                      'weekday': '11:00-14:00, 17:00-20:00'}},
+        {'area': '風雲2樓',
+          'image': 'https://img.onl/m4eJUM',
+          'name': '家味燒臘',
+          'note': '11月每週日暫停營業及每週五晚餐暫停營業',
+          'phone': '0989-208-207',
+          'schedule': {'saturday': '11:00-14:00, 17:00-20:00',
+                      'sunday': '',
+                      'weekday': '11:00-14:00, 17:00-20:00'}},
+        {'area': '風雲2樓',
+          'image': 'https://img.onl/Wc4mC5',
+          'name': '喜番咖哩',
+          'note': '11月每週日暫停營業，11/3晚餐暫停營業',
+          'phone': '0922-870-206',
+          'schedule': {'saturday': '11:00-14:00, 17:00-20:00',
+                      'sunday': '',
+                      'weekday': '11:00-14:00, 17:00-20:00'}},
+        {'area': '風雲3樓',
+          'image': 'https://img.onl/zQtA7A',
+          'name': '牛肉先生',
+          'note': '11月每週日暫停營業',
+          'phone': '0928-885-666',
+          'schedule': {'saturday': '11:00-19:30',
+                      'sunday': '',
+                      'weekday': '11:00-19:30'}},
+        {'area': '風雲3樓',
+          'image': 'https://img.onl/eowYc9',
+          'name': '墨尼捲餅',
+          'note': '11月每週日暫停營業',
+          'phone': '0915-934-275',
+          'schedule': {'saturday': '11:00-19:30',
+                      'sunday': '',
+                      'weekday': '11:00-19:30'}},
+        {'area': '風雲3樓',
+          'image': 'https://img.onl/DJJ9gR',
+          'name': '珍御品粥麵館',
+          'note': '11月每週日暫停營業',
+          'phone': '0937-135-706,0911-892-772',
+          'schedule': {'saturday': '10:30-20:00',
+                      'sunday': '',
+                      'weekday': '10:30-20:00'}},
+        {'area': '風雲3樓',
+          'image': 'https://img.onl/SXOj8',
+          'name': '鳴野食蘋早午餐',
+          'note': '11月每週日暫停營業',
+          'phone': '0908-669-248',
+          'schedule': {'saturday': '7:00-13:30',
+                      'sunday': '',
+                      'weekday': '7:00-13:30'}},
+        {'area': '風雲3樓',
+          'image': 'https://img.onl/rGJCrU',
+          'name': '瑪尼卡巴',
+          'note': '11月每週日暫停營業',
+          'phone': '0915-934-275',
+          'schedule': {'saturday': '11:30-14:30, 16:00-19:30',
+                      'sunday': '',
+                      'weekday': '11:30-14:30, 16:00-19:30'}},
+        {'area': '風雲3樓',
+          'image': 'https://img.onl/VdTGgb',
+          'name': '完顏南洋料理',
+          'note': '11月每週日暫停營業',
+          'phone': '0911-901-509',
+          'schedule': {'saturday': '11:00-20:00',
+                      'sunday': '11:00-21:30',
+                      'weekday': '週一~週四及週日11:00-21:30，週五、六11:00-20:00'}},
+        {'area': '風雲4樓',
+          'image': 'https://img.onl/j6WzzT',
+          'name': 'Me Time',
+          'note': '每週日暫停營業',
+          'phone': '03-5733221',
+          'schedule': {'saturday': '11:15-14:00, 17:00-20:00',
+                      'sunday': '11:00-21:30',
+                      'weekday': '11:15-14:00, 17:00-20:00'}}
+      ]
+    },
+    {
+      'building': '綜合教學大樓(南大校區)',
+      'restaurants': [
+        {'area': '綜合教學大樓',
+          'image': 'https://img.onl/CYp5nN',
+          'name': '7-ELEVEN',
+          'note': '',
+          'phone': '03-5622948',
+          'schedule': {'saturday': '24小時',
+                      'sunday': '24小時',
+                      'weekday': '24小時'}},
+        {'area': '行政大樓(旁)',
+          'image': 'https://img.onl/rEEEr',
+          'name': '沐食早午餐',
+          'note': '國定假日、寒、暑假暫停營業',
+          'phone': '0925-325-006',
+          'schedule': {'saturday': '',
+                      'sunday': '',
+                      'weekday': '9:00-18:00'}},
+        {'area': '第二活動中心一樓',
+          'image': 'https://img.onl/P2aHWJ',
+          'name': '瑞斯飯糰',
+          'note': '國定假日、寒、暑假暫停營業',
+          'phone': '0917-002-228',
+          'schedule': {'saturday': '',
+                      'sunday': '',
+                      'weekday': '7:00-13:00'}}
+      ]
+    },
+    {
+      'building': '其他餐廳',
+      'restaurants': [
+        {'area': '旺宏館一樓',
+          'image': 'https://img.onl/3nWNgS',
+          'name': '路易莎',
+          'note': '',
+          'phone': '03-5721613',
+          'schedule': {'saturday': '8:00-21:00',
+                      'sunday': '8:00-21:00',
+                      'weekday': '7:00:21:00'}},
+        {'area': '百齡堂',
+          'image': 'https://img.onl/K4omhK',
+          'name': '清華水漾',
+          'note': '',
+          'phone': '03-5751584, 0936-394-535',
+          'schedule': {'saturday': '9:30-21:00',
+                      'sunday': '9:30-21:00',
+                      'weekday': '9:30-21:00'}},
+        {'area': '人社院',
+          'image': 'https://img.onl/aWb09f',
+          'name': '人社院餐廳',
+          'note': '每週六、日，國定假日及寒、暑假暫停營業',
+          'phone': '0932-116-552',
+          'schedule': {'saturday': '',
+                      'sunday': '',
+                      'weekday': '11:30-13:30'}},
+        {'area': '第二招待所一樓',
+          'image': 'https://img.onl/NFxKwW',
+          'name': '第二招待所中餐廳',
+          'note': '每週六、日，國定假日及寒、暑假暫停營業',
+          'phone': '校內分機 35245, 0932-116-552',
+          'schedule': {'saturday': '',
+                      'sunday': '',
+                      'weekday': '11:30-13:30'}},
+        {'area': '綜四館一樓',
+          'image': 'https://img.onl/PWQQK2',
+          'name': '全家便利商店',
+          'note': '',
+          'phone': '0939-226-904',
+          'schedule': {'saturday': '8:00-23:00',
+                      'sunday': '8:00-23:00',
+                      'weekday': '7:00-23:00'}}
+      ]
+    },
+  ]
+
+  renderTabs(
+    'horizone-restaurants-tabs-root',
+    restaurantsData,
+  )
+
+  renderRestaurants(
+    'horizone-restaurants-cards-root',
+    restaurantsData,
+  );
+
+  /* Render */
+  function renderTabs(rootId, data) {
+    const root = document.getElementById(rootId);
+    const container = document.createElement("div");
+    container.setAttribute("class", "horizone-container tabs-section");
+
+    for (let index = 0; index < data.length; index++) {
+      const buidlingData = data[index];
+
+      const tabItem = document.createElement("div");
+      tabItem.setAttribute("class", "tab-item");
+      tabItem.setAttribute("data-tab-id", buidlingData.building);
+      tabItem.textContent = buidlingData.building;
+
+      container.append(tabItem);
+    }
+
+    root.append(container);
+  }
+
+  function renderRestaurants(rootId, data) {
+    const root = document.getElementById(rootId);
+
+    for (let buildingIdx = 0; buildingIdx < data.length; buildingIdx++) {
+      const building = data[buildingIdx];
+      const restaurants = data[buildingIdx].restaurants;
+
+      const buildingContainer = document.createElement("div");
+      buildingContainer.setAttribute("class", "horizone-container building-section");
+      buildingContainer.setAttribute("id", building.building);
+
+      const buildingSectionTitle = document.createElement("div");
+      buildingSectionTitle.setAttribute("class", "section-title");
+      buildingSectionTitle.textContent = building.building;
+
+      const rows = document.createElement("div");
+      rows.setAttribute("class", "horizone-row schedule-row");
+
+      for (let restIdx = 0; restIdx < restaurants.length; restIdx++) {
+        const item = restaurants[restIdx];
+
+        const col = document.createElement('div');
+        col.setAttribute("class", "horizone-col-xs-12 horizone-col-sm-6 horizone-col-md-4");
+
+        const card = document.createElement('div');
+        card.setAttribute("class", "restaurant-card");
+
+        /* body */
+        const cardBody = document.createElement('div');
+        cardBody.setAttribute("class", "card__body");
+
+        // body Image
+        const bodyImage = document.createElement('img');
+        if (item.image) {
+          bodyImage.setAttribute("class", "body-image");
+          bodyImage.src = item.image;
+        }
+
+        // body Content
+        const bodyContent = document.createElement('div');
+        bodyContent.setAttribute("class", "body-content");
+        
+        const contentTitle = document.createElement('div');
+        contentTitle.setAttribute("class", "content-title");
+        contentTitle.textContent = item.name;
+
+        const contentPhone = document.createElement('div');
+        contentPhone.setAttribute("class", "content-phone");
+        contentPhone.textContent = item.phone;
+        
+        // tags
+        const contentTags = document.createElement('div');
+        contentTags.setAttribute("class", "content-tags");
+
+        const areaTag = document.createElement('div');
+        areaTag.setAttribute("class", "tag-item item--primary");
+        areaTag.textContent = item.area;
+
+        const scheduleTag = document.createElement('div');
+        scheduleTag.setAttribute("class", "tag-item");
+        if (!isWeekend()) {
+          scheduleTag.textContent = item.schedule.weekday || '休';
+        } else {
+          if (saturdayOrSunday() === '6') {
+            scheduleTag.textContent = item.schedule.saturday || '休';
+          } else {
+            scheduleTag.textContent = item.schedule.sunday || '休';
+          }
+        }
+
+        contentTags.append(areaTag, scheduleTag);
+        bodyContent.append(contentTitle, contentPhone, contentTags);
+
+        if (bodyImage.src) {
+          cardBody.append(bodyImage);
+        }
+        cardBody.append(bodyContent);
+
+        /* footer */
+        const cardFooter = document.createElement('div');
+        cardFooter.setAttribute("class", "card__footer");
+
+        const cardNote = document.createElement('div');
+        if (item.note) {
+          cardNote.setAttribute("class", "card-note");
+          cardNote.textContent = item.note;
+        }
+
+        cardFooter.append(cardNote);
+        
+        /* Append to Card */
+        card.append(cardBody, cardFooter);
+        col.append(card);
+        rows.append(col);
+      }
+
+      buildingContainer.append(buildingSectionTitle, rows);
+      root.append(buildingContainer);
+    }
+  }
+
+  /* Events */
+  const tabsRoot = document.getElementById('horizone-restaurants-tabs-root');
+  tabsRoot.addEventListener('click', handleClick);
+  function handleClick(event) {
+    const clickedTab = event.target;
+    
+    if (clickedTab.classList.contains('tab-item')) {
+      const tabId = clickedTab.getAttribute('data-tab-id');
+
+      const scrollToElement = document.getElementById(tabId);
+      if (scrollToElement) {
+        scrollToElement.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  }
+
+  /* Utils */
+  function isWeekend() {
+    const today = new Date();
+    const dayOfWeek = today.getDay();
+    return dayOfWeek === 0 || dayOfWeek === 6;
+  }
+
+  function saturdayOrSunday() {
+    const today = new Date();
+    const dayOfWeek = today.getDay();
+
+    if (dayOfWeek === 6) return 6;
+    else if (dayOfWeek === 0) return 7;
+
+    return null
+  }
+</script>
+<style type="text/css">.horizone-container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.horizone-container.fluid {
+  width: 100% !important;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-container {
+    width: 750px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .horizone-container {
+    width: 870px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .horizone-container {
+    width: 1170px;
+  }
+}
+
+.horizone-row {
+  margin: 0 -12px;
+}
+
+.horizone-row:after {
+  content: "";
+  display: block;
+  clear: both;
+  width: 100%;
+}
+
+[class^="horizone-col-"] {
+  float: left;
+  width: 100%;
+  padding: 0 12px;
+}
+
+.horizone-col-xs-1 {
+  width: calc( 100% * 1 / 12);
+}
+
+.horizone-col-xs-2 {
+  width: calc( 100% * 2 / 12);
+}
+
+.horizone-col-xs-3 {
+  width: calc( 100% * 3 / 12);
+}
+
+.horizone-col-xs-4 {
+  width: calc( 100% * 4 / 12);
+}
+
+.horizone-col-xs-5 {
+  width: calc( 100% * 5 / 12);
+}
+
+.horizone-col-xs-6 {
+  width: calc( 100% * 6 / 12);
+}
+
+.horizone-col-xs-7 {
+  width: calc( 100% * 7 / 12);
+}
+
+.horizone-col-xs-8 {
+  width: calc( 100% * 8 / 12);
+}
+
+.horizone-col-xs-9 {
+  width: calc( 100% * 9 / 12);
+}
+
+.horizone-col-xs-10 {
+  width: calc( 100% * 10 / 12);
+}
+
+.horizone-col-xs-11 {
+  width: calc( 100% * 11 / 12);
+}
+
+.horizone-col-xs-12 {
+  width: calc( 100% * 12 / 12);
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-col-sm-1 {
+      width: calc( 100% * 1 / 12);
+  }
+  .horizone-col-sm-2 {
+      width: calc( 100% * 2 / 12);
+  }
+  .horizone-col-sm-3 {
+      width: calc( 100% * 3 / 12);
+  }
+  .horizone-col-sm-4 {
+      width: calc( 100% * 4 / 12);
+  }
+  .horizone-col-sm-5 {
+      width: calc( 100% * 5 / 12);
+  }
+  .horizone-col-sm-6 {
+      width: calc( 100% * 6 / 12);
+  }
+  .horizone-col-sm-7 {
+      width: calc( 100% * 7 / 12);
+  }
+  .horizone-col-sm-8 {
+      width: calc( 100% * 8 / 12);
+  }
+  .horizone-col-sm-9 {
+      width: calc( 100% * 9 / 12);
+  }
+  .horizone-col-sm-10 {
+      width: calc( 100% * 10 / 12);
+  }
+  .horizone-col-sm-11 {
+      width: calc( 100% * 11 / 12);
+  }
+  .horizone-col-sm-12 {
+      width: calc( 100% * 12 / 12);
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .horizone-col-md-1 {
+      width: calc( 100% * 1 / 12);
+  }
+  .horizone-col-md-2 {
+      width: calc( 100% * 2 / 12);
+  }
+  .horizone-col-md-3 {
+      width: calc( 100% * 3 / 12);
+  }
+  .horizone-col-md-4 {
+      width: calc( 100% * 4 / 12);
+  }
+  .horizone-col-md-5 {
+      width: calc( 100% * 5 / 12);
+  }
+  .horizone-col-md-6 {
+      width: calc( 100% * 6 / 12);
+  }
+  .horizone-col-md-7 {
+      width: calc( 100% * 7 / 12);
+  }
+  .horizone-col-md-8 {
+      width: calc( 100% * 8 / 12);
+  }
+  .horizone-col-md-9 {
+      width: calc( 100% * 9 / 12);
+  }
+  .horizone-col-md-10 {
+      width: calc( 100% * 10 / 12);
+  }
+  .horizone-col-md-11 {
+      width: calc( 100% * 11 / 12);
+  }
+  .horizone-col-md-12 {
+      width: calc( 100% * 12 / 12);
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .horizone-col-lg-1 {
+      width: calc( 100% * 1 / 12);
+  }
+  .horizone-col-lg-2 {
+      width: calc( 100% * 2 / 12);
+  }
+  .horizone-col-lg-3 {
+      width: calc( 100% * 3 / 12);
+  }
+  .horizone-col-lg-4 {
+      width: calc( 100% * 4 / 12);
+  }
+  .horizone-col-lg-5 {
+      width: calc( 100% * 5 / 12);
+  }
+  .horizone-col-lg-6 {
+      width: calc( 100% * 6 / 12);
+  }
+  .horizone-col-lg-7 {
+      width: calc( 100% * 7 / 12);
+  }
+  .horizone-col-lg-8 {
+      width: calc( 100% * 8 / 12);
+  }
+  .horizone-col-lg-9 {
+      width: calc( 100% * 9 / 12);
+  }
+  .horizone-col-lg-10 {
+      width: calc( 100% * 10 / 12);
+  }
+  .horizone-col-lg-11 {
+      width: calc( 100% * 11 / 12);
+  }
+  .horizone-col-lg-12 {
+      width: calc( 100% * 12 / 12);
+  }
+}
+
+.horizone-restaurants-page {
+  padding: 12px;
+}
+
+.horizone-restaurants-page #horizone-restaurants-tabs-root .tabs-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 28px;
+}
+
+.horizone-restaurants-page #horizone-restaurants-tabs-root .tabs-section .tab-item {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 24px;
+  background: #fff;
+  color: #484747;
+  border: 1px solid #6F1B6C;
+  padding: 4px 16px;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-restaurants-page #horizone-restaurants-tabs-root .tabs-section .tab-item {
+    font-size: 16px;
+    padding: 6px 20px;
+  }
+}
+
+.horizone-restaurants-page .building-section {
+  margin-bottom: 12px;
+  padding: 12px 0;
+}
+
+.horizone-restaurants-page .building-section:first-child {
+  padding-top: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-restaurants-page .building-section {
+    padding: 20px 0;  
+  }
+
+  .horizone-restaurants-page .building-section:first-child {
+    padding-top: 20px;
+  }
+}
+
+
+.horizone-restaurants-page .building-section .section-title {
+  color: #424242;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  margin-bottom: 8px;
+}
+
+.horizone-restaurants-page .restaurant-card {
+  border: 1px solid #6f1b6c87;
+  border-radius: 8px;
+  box-shadow: 0px 5px 6px #dbdbdb;
+  padding: 16px;
+  margin-bottom: 12px;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-restaurants-page .restaurant-card {
+    height: 195px;
+    overflow: auto;
+  }
+}
+
+.horizone-restaurants-page .restaurant-card .card__body {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-restaurants-page .restaurant-card .card__body {
+    gap: 24px;
+  }
+}
+
+.horizone-restaurants-page .restaurant-card .card__body .body-image {
+  width: 60px !important;;
+  height: 60px !important;;
+}
+
+.horizone-restaurants-page .restaurant-card .card__body .body-image img {
+  width: 60px !important;;
+  height: 60px !important;;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-restaurants-page .restaurant-card .card__body .body-image {
+    width: 75px !important;
+    height: 75px !important;;
+  }
+
+  .horizone-restaurants-page .restaurant-card .card__body .body-image img {
+    width: 75px !important;;
+    height: 75px !important;;
+  }
+}
+
+.horizone-restaurants-page .restaurant-card .card__body .body-content .content-title {
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  margin-bottom: 8px;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-restaurants-page .restaurant-card .card__body .body-content .content-title {
+    font-size: 20px;
+  }
+}
+
+.horizone-restaurants-page .restaurant-card .card__body .body-content .content-phone {
+  color: #757575;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.horizone-restaurants-page .restaurant-card .card__body .body-content .content-tags {
+  display: flex;
+  gap: 8px;
+  padding-top: 8px;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-restaurants-page .restaurant-card .card__body .body-content .content-tags {
+    flex-direction: column;
+  }
+}
+
+.horizone-restaurants-page .restaurant-card .card__body .body-content .content-tags .tag-item {
+  align-self: flex-start;
+  color: #424242;
+  font-size: 12px;
+  line-height: 18px;
+  border: 1px solid #BDBDBD;
+  border-radius: 16px;
+  padding: 2px 8px;
+}
+
+@media screen and (min-width: 768px) {
+  .horizone-restaurants-page .restaurant-card .card__body .body-content .content-tags .tag-item {
+    font-size: 13px;
+  }
+}
+
+.horizone-restaurants-page .restaurant-card .card__body .body-content .content-tags .tag-item.item--primary {
+  color: #FFFFFF;
+  background: #6F1B6C;
+  border: none;
+}
+
+.horizone-restaurants-page .restaurant-card .card__footer .card-note {
+  color: #757575;
+  font-size: 12px;
+  line-height: 18px;
+  border-top: 1px solid rgb(230, 230, 230);
+  margin-top: 8px;
+  padding-top: 8px;
+}
+
+.horizone-restaurants-page .link-section {
+  padding: 20px 0;
+}
+
+.horizone-restaurants-page .link-section .section-title {
+  color: #424242;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  margin-bottom: 8px;
+}
+
+.horizone-restaurants-page .link-section .section-body .body-link {
+  margin-bottom: 8px;
+}
+
+.horizone-restaurants-page .link-section .section-body .body-link a {
+  font-size: 18px;
+  color: #6F1B6C;
+}
+</style>
+<!--app content end--></div>
+	
+	
+	
+</div>
+
+
+
+
+
+		</div>
+	</section>
+	</div>
+</div>
+
+
+
+<div class="module module-misc">
+	<div class="minner">
+		<section class="mb">
+			
+			<div class="artctrl">
+				
+				<div class="PtStatistic">
+					<em>瀏覽數:<i id='ae9e893c112c2fe1ab9b1675b39cbc057_PtStatistic_256455'></i><script>
+					$(document).ready(function() {
+						$.hajaxOpenUrl('/app/index.php?Action=mobileloadmod&Type=mobileptstatistic&Nbr=256455','#ae9e893c112c2fe1ab9b1675b39cbc057_PtStatistic_256455');
+					})</script></em>
+				</div>
+				
+				
+
+						
+						<div class="badge fprint"><a href="https://ddfm.site.nthu.edu.tw/p/16-1494-256455.php?Lang=zh-tw" title="友善列印(另開新視窗)" target="_blank">友善列印</a></div>
+					
+
+					
+				<div class="badge share_btn"><em>分享</em></div>
+				<input type="hidden" id="changeTime" name="changeTime" value=''>
+				<div class="shareto">
+            </div>
+				
+			</div>
+		</section>
+	</div>
+</div>
+
+
+
+
+<script defer="defer">
+$(document).ready(function(){
+	$('.artctrl .addfav').click(function(){
+		ptdetail_addfav();	
+	});
+  $('.share_btn').click(function(){
+    $(this).siblings('.shareto').toggle();
+  })
+	function ptdetail_addfav(){
+		if(popChkLogin()){
+			if($(".artctrl .addfav").hasClass("active")){
+				var url = "/app/index.php?Action=mobileaddtofav&Part=256455&Op=delfav";
+			}else{
+				var url = "/app/index.php?Action=mobileaddtofav&Part=256455&Op=addfav";
+			}
+			var a = [];
+			$.post(url,a,function(data){
+				d = eval("("+data+")");
+				if(d.stat)
+					$(".artctrl .addfav").addClass("active");
+				else
+					$(".artctrl .addfav").removeClass("active");
+				mCallBack(data);
+			});
+		}
+		else	showPopDiv($('#_pop_login.mpopdiv'),$('#_pop_login.mpopdiv .mbox'));
+	}
+	function ptdetail_chkfav(){
+		var url = "/app/index.php?Action=mobileaddtofav&Part=256455&Op=chkfav";
+		var a = [];
+		$.post(url,a,function(data){
+			d = eval("("+data+")");
+			if(d.stat)
+				$(".artctrl .addfav").addClass("active");
+		});
+	}
+	ptdetail_chkfav();
+	
+		$.hajaxOpenUrl("/app/index.php?Action=mobilestsns",'.shareto');
+	
+	
+});
+</script>
+
+
+</div>
+
+					
+					</div>
+				</div> 
+			 
+		
+			
+			
+			
+			 
+		
+	</div>
+</div>
+	
+
+</div>
+</div>
+
+
+	<style>
+	@media (min-width: 481px) {.row_0 .col_01 { width: 0%;}.row_0 .col_02 { width: 100%;}.row_0 .col_03 { width: 0%;}}
+	</style>
+
+
+<div id="Dyn_footer">
+<div class="footer">
+<div class="minner ">
+
+<div id="Dyn_mobilecounter" class="M45 M45_0  "></div>
+<script language="javascript" >
+ $(document).ready(function(){ $.hajaxOpenUrl('/app/index.php?Action=mobileloadmod&Type=mobilecounter&Nbr=','#Dyn_mobilecounter');
+ });
+ </script>
+
+
+
+
+<ul class="langbar">
+
+	 <li><a class="active" title="繁體"><span>繁體</span></a></li>
+
+	 <li><a href="#" onclick="openLangUrl('en');return false;" title="English"><span>English</span></a></li>
+
+</ul>
+<script>
+function openLangUrl(p_lang) {
+   var curlang = getUrlParam("Lang");
+   if(curlang!="") {
+      var str = window.location+"";
+      window.location = str.replace("Lang="+curlang,"Lang="+p_lang);
+   }
+   else {
+      if(window.location.href.indexOf("?")>0)
+         window.location=window.location+'&Lang='+p_lang;
+      else
+         window.location=window.location+'?Lang='+p_lang;
+   }
+}
+function getUrlParam(paramName,url){
+	if(typeof url=="undefined") url=window.location;
+   var oRegex = new RegExp( '[\?&]' + paramName + '=([^&]+)', 'i' ) ;
+   var oMatch = oRegex.exec(url) ;
+   if ( oMatch && oMatch.length > 1 )
+      return oMatch[1] ;
+   else
+      return '' ;
+}
+</script>
+
+
+
+<div class="copyright">
+<div class="meditor">
+	<p style="text-align: center;">校本部電話：03-5715131轉分機&nbsp; &nbsp;傳真：03-5724872&nbsp; 服務信箱 : ddfm@gapp.nthu.edu.tw&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30013 新竹市光復路二段101號</p>
+
+<p style="text-align: center;"><span style="text-align: center; font-family: &quot;Microsoft JhengHei&quot;, &quot;Microsoft YaHei&quot;, Tohoma, Arial; font-size: 14px;">Copyright (c) 2020 National Tsing Hua University ALL RIGHTS RESERVED</span></p>
+
+<p style="text-align: center;"><a href="https://pims.site.nthu.edu.tw/p/412-1095-17561.php?Lang=zh-tw" title="資訊安全政策">資訊安全政策</a>&nbsp; &nbsp; <a href="https://pims.site.nthu.edu.tw/p/412-1095-10091.php?Lang=zh-tw" title="個資保護政策">個資保護政策</a></p>
+
+<p style="text-align: center;"><span style="text-align: center; font-family: &quot;Microsoft JhengHei&quot;, &quot;Microsoft YaHei&quot;, Tohoma, Arial; font-size: 14px;"></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+	
+</div>
+</div>
+
+
+
+
+
+</div>
+</div>
+<!-- generated at Thu Nov 02 2023 10:12:39 --></div>
+
+
+</div>
+</div>
+<div class="fpbgvideo"></div>
+
+
+
+
+<div id="_pop_login" class="mpopdiv">
+<script>$(document).ready(function() {$.hajaxOpenUrl('/app/index.php?Action=mobileloadmod&Type=mobilepoplogin&Nbr=0','#_pop_login','',function(){menuDropAct();});})</script>
+</div>
+
+
+<div id="_pop_tips" class="mtips">
+	<div class="mbox">
+	</div>
+</div>
+<div id="_pop_dialog" class="mdialog">
+	<div class="minner">
+		<div class="mcont">
+		</div>
+		<footer class="mdialog-foot">
+        	<button type="submit" class="mbtn mbtn-s">OK</button>
+        	<button type="submit" class="mbtn mbtn-c">Cancel</button>
+		</footer>
+	</div>
+</div>
+
+
+<!--<script>NProgress.done();</script>-->
+<script>
+function popChkLogin(){
+	if(typeof(loginStat)=='undefined') {
+   	var chkstat=0;
+   	var chkUrl='/app/index.php?Action=mobilelogin&Op=chklogin';
+   	var chkData = [];
+   	var chkObj=$.hajaxReturn(chkUrl,chkData);
+   	chkstat=chkObj.stat;
+		if(chkstat) {
+			loginStat="login"; 
+			return true;
+		}else {
+			loginStat="logout"; 
+			return false;
+		}	
+	}else {
+		if(loginStat=="login") return true;
+		else return false;
+	}
+}
+
+</script>
+<!-- generated at Thu Nov 02 2023 10:12:05 --></body></html>
