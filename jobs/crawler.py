@@ -24,8 +24,17 @@ driver = webdriver.Edge(service=EdgeService(
     EdgeChromiumDriverManager().install()), options=options)
 driver.get(URL)
 
+try:
+    WebDriverWait(driver, 10, 0.1).until(EC.presence_of_element_located((By.CLASS_NAME, "wh")))
+except TimeoutError:
+    # 超時的情況暫時寫成這樣，挪到models裡面時再改
+    print("TimeoutError")
+    driver.close()
+    exit()
+else:
+    page_num = len(driver.find_elements(By.CSS_SELECTOR, "input[type=submit]")) - 2
+
 res = []
-page_num = len(driver.find_elements(By.CSS_SELECTOR, "input[type=submit]")) - 2
 for i in range(0, page_num):
     try:
         # 顯式等待，等待class name為wh的元素出現
